@@ -1,0 +1,1476 @@
+Age;Over18;Education;EducationField;Gender;MaritalStatus;cpf_11
+41.0;Y;2.0;Life Sciences;Female;Single;55565489601
+49.0;Y;1.0;Life Sciences;Male;Married;01389891259
+37.0;Y;2.0;Other;Male;Single;10292222823
+33.0;Y;4.0;Life Sciences;Female;Married;25092685204
+27.0;Y;1.0;Medical;Male;Married;45025235189
+32.0;Y;2.0;Life Sciences;Male;Single;60305550900
+59.0;Y;3.0;Medical;Female;Married;12545937215
+30.0;Y;1.0;Life Sciences;Male;Divorced;04975821044
+38.0;Y;3.0;Life Sciences;Male;Single;95238767919
+36.0;Y;3.0;Medical;Male;Married;07837391845
+35.0;Y;3.0;Medical;Male;Married;18023279246
+29.0;Y;2.0;Life Sciences;Female;Single;78884840422
+31.0;Y;1.0;Life Sciences;Male;Divorced;59328674425
+34.0;Y;2.0;Medical;Male;Divorced;87717986507
+28.0;Y;3.0;Life Sciences;Male;Single;20746642490
+29.0;Y;4.0;Life Sciences;Female;Divorced;71446416461
+32.0;Y;2.0;Life Sciences;Male;Divorced;34960234814
+22.0;Y;2.0;Medical;Male;Divorced;17795779662
+53.0;Y;4.0;Life Sciences;Female;Married;14239625750
+38.0;Y;3.0;Life Sciences;Male;Single;47011189319
+24.0;Y;2.0;Other;Female;Divorced;47650183505
+36.0;Y;4.0;Life Sciences;Male;Single;10647594242
+34.0;Y;4.0;Life Sciences;Female;Single;61852573945
+21.0;Y;2.0;Life Sciences;Male;Single;14533216595
+34.0;Y;1.0;Medical;Male;Single;80498008304
+53.0;Y;3.0;Other;Female;Divorced;62137309076
+32.0;Y;1.0;Life Sciences;Female;Single;24262123812
+42.0;Y;4.0;Marketing;Male;Married;67220416202
+44.0;Y;4.0;Medical;Female;Married;16571088053
+46.0;Y;4.0;Marketing;Female;Single;01264765606
+33.0;Y;3.0;Medical;Male;Single;61340329212
+44.0;Y;4.0;Other;Male;Married;70781543207
+30.0;Y;2.0;Medical;Male;Single;26014275312
+39.0;Y;3.0;Technical Degree;Male;Married;55782154918
+24.0;Y;3.0;Medical;Male;Married;27250918451
+43.0;Y;2.0;Medical;Female;Divorced;68359241015
+50.0;Y;2.0;Marketing;Male;Married;89772565501
+35.0;Y;3.0;Marketing;Female;Married;31335391592
+36.0;Y;4.0;Life Sciences;Female;Married;45339645401
+33.0;Y;3.0;Life Sciences;Female;Married;27088499649
+35.0;Y;2.0;Other;Male;Divorced;90972488090
+27.0;Y;4.0;Life Sciences;Female;Divorced;30864760604
+26.0;Y;3.0;Life Sciences;Male;Single;25293574396
+27.0;Y;3.0;Life Sciences;Male;Single;08193425561
+30.0;Y;2.0;Medical;Female;Single;68379002938
+41.0;Y;3.0;Technical Degree;Female;Married;95864444812
+34.0;Y;4.0;Marketing;Male;Single;62278292854
+37.0;Y;2.0;Life Sciences;Male;Married;41048634086
+46.0;Y;4.0;Marketing;Male;Single;46869742081
+35.0;Y;1.0;Life Sciences;Male;Married;45740716802
+48.0;Y;2.0;Life Sciences;Male;Single;26698785202
+28.0;Y;4.0;Technical Degree;Male;Single;68175549696
+44.0;Y;5.0;Marketing;Female;Divorced;80282988777
+35.0;Y;2.0;Medical;Male;Married;56746790967
+26.0;Y;3.0;Marketing;Female;Married;81606829807
+33.0;Y;2.0;Life Sciences;Female;Single;40534202373
+35.0;Y;5.0;Life Sciences;Male;Married;51698983204
+35.0;Y;4.0;Medical;Female;Married;32695068999
+31.0;Y;4.0;Life Sciences;Male;Divorced;04033966706
+37.0;Y;4.0;Life Sciences;Male;Divorced;36423900809
+32.0;Y;3.0;Medical;Male;Married;13360521471
+38.0;Y;5.0;Life Sciences;Female;Single;58035248910
+50.0;Y;2.0;Medical;Female;Divorced;38919908397
+59.0;Y;3.0;Life Sciences;Female;Single;14781522491
+36.0;Y;3.0;Technical Degree;Female;Divorced;66713575447
+55.0;Y;3.0;Medical;Female;Divorced;33217993080
+36.0;Y;3.0;Life Sciences;Male;Single;21401832156
+45.0;Y;3.0;Life Sciences;Male;Divorced;73543657186
+35.0;Y;3.0;Medical;Male;Married;33289828689
+36.0;Y;3.0;Medical;Male;Married;25335883260
+59.0;Y;1.0;Life Sciences;Female;Single;09210664060
+29.0;Y;3.0;Life Sciences;Male;Married;27358504984
+31.0;Y;4.0;Medical;Male;Single;15122279519
+32.0;Y;3.0;Life Sciences;Male;Married;73259524142
+36.0;Y;3.0;Life Sciences;Female;Married;81485994756
+31.0;Y;4.0;Life Sciences;Female;Single;58769483574
+35.0;Y;4.0;Marketing;Male;Single;01949455882
+45.0;Y;4.0;Other;Male;Married;36445933025
+37.0;Y;4.0;Medical;Male;Single;24166536281
+46.0;Y;2.0;Medical;Male;Divorced;25614169172
+30.0;Y;1.0;Life Sciences;Male;Married;83425511726
+35.0;Y;3.0;Medical;Male;Single;01823232850
+55.0;Y;2.0;Life Sciences;Male;Married;12041776277
+38.0;Y;3.0;Medical;Female;Divorced;89074775071
+34.0;Y;2.0;Medical;Male;Married;73888445620
+56.0;Y;3.0;Life Sciences;Male;Single;60532324242
+23.0;Y;1.0;Technical Degree;Male;Divorced;79185056200
+51.0;Y;4.0;Life Sciences;Male;Married;61630566209
+30.0;Y;3.0;Life Sciences;Male;Married;20696486210
+46.0;Y;2.0;Medical;Male;Single;27736685614
+40.0;Y;4.0;Life Sciences;Male;Married;30087150956
+51.0;Y;4.0;Marketing;Male;Single;11137920190
+30.0;Y;2.0;Medical;Female;Divorced;60057012741
+46.0;Y;3.0;Medical;Male;Married;36937167300
+32.0;Y;4.0;Medical;Male;Single;21532584725
+54.0;Y;4.0;Technical Degree;Female;Married;08503681030
+24.0;Y;2.0;Other;Female;Married;01909933910
+28.0;Y;3.0;Medical;Male;Married;65884685122
+58.0;Y;4.0;Medical;Male;Single;97962746556
+44.0;Y;3.0;Medical;Male;Married;82694682405
+37.0;Y;4.0;Human Resources;Male;Divorced;77863856655
+32.0;Y;1.0;Life Sciences;Male;Single;07803153836
+20.0;Y;3.0;Life Sciences;Female;Single;36203196509
+34.0;Y;4.0;Other;Female;Single;86879997805
+37.0;Y;2.0;Life Sciences;Male;Divorced;66111263170
+59.0;Y;4.0;Human Resources;Female;Married;53578113778
+50.0;Y;3.0;Life Sciences;Female;Married;34433717797
+25.0;Y;3.0;Marketing;Male;Single;67471244305
+25.0;Y;1.0;Medical;Male;Married;13110794837
+22.0;Y;3.0;Medical;Female;Single;42365605770
+51.0;Y;4.0;Medical;Female;Single;20796220808
+34.0;Y;3.0;Life Sciences;Male;Single;77738637170
+54.0;Y;3.0;Human Resources;Female;Single;85401663307
+24.0;Y;1.0;Life Sciences;Male;Married;33333298759
+34.0;Y;4.0;Life Sciences;Female;Divorced;42299706330
+37.0;Y;3.0;Life Sciences;Male;Single;98956847622
+34.0;Y;3.0;Medical;Female;Single;31064021999
+36.0;Y;2.0;Technical Degree;Female;Married;69031873241
+36.0;Y;2.0;Life Sciences;Female;Divorced;50591777002
+43.0;Y;2.0;Life Sciences;Male;Married;24845934221
+30.0;Y;3.0;Life Sciences;Male;Divorced;19618921204
+33.0;Y;2.0;Marketing;Male;Married;66804898141
+56.0;Y;4.0;Life Sciences;Female;Married;44568059780
+51.0;Y;3.0;Life Sciences;Male;Single;96459898332
+31.0;Y;4.0;Life Sciences;Male;Married;40465332188
+26.0;Y;3.0;Other;Female;Married;23919337891
+58.0;Y;4.0;Medical;Female;Married;94501216999
+19.0;Y;1.0;Marketing;Male;Single;66242733560
+22.0;Y;1.0;Technical Degree;Male;Married;41211295206
+49.0;Y;4.0;Medical;Female;Married;44419080671
+43.0;Y;3.0;Medical;Female;Single;47977713217
+50.0;Y;3.0;Marketing;Female;Single;45888478210
+31.0;Y;3.0;Life Sciences;Female;Married;42895605637
+41.0;Y;1.0;Life Sciences;Male;Divorced;42783516900
+26.0;Y;1.0;Life Sciences;Female;Married;83786015104
+36.0;Y;2.0;Medical;Male;Divorced;38934574615
+51.0;Y;4.0;Life Sciences;Male;Single;51977696708
+39.0;Y;4.0;Life Sciences;Female;Married;05122696705
+25.0;Y;3.0;Life Sciences;Male;Married;73849160971
+30.0;Y;3.0;Human Resources;Male;Married;87284950200
+32.0;Y;3.0;Medical;Female;Single;72256687570
+45.0;Y;3.0;Medical;Male;Single;66364021212
+38.0;Y;5.0;Technical Degree;Female;Single;40489878520
+30.0;Y;3.0;Life Sciences;Female;Single;53974433015
+32.0;Y;2.0;Medical;Male;Divorced;46652555395
+30.0;Y;3.0;Technical Degree;Female;Divorced;11791494676
+30.0;Y;1.0;Medical;Male;Single;34895501108
+41.0;Y;3.0;Life Sciences;Male;Divorced;03706069652
+41.0;Y;4.0;Life Sciences;Male;Married;55085805062
+19.0;Y;1.0;Medical;Female;Single;54913042980
+40.0;Y;3.0;Medical;Female;Divorced;59543969221
+35.0;Y;5.0;Marketing;Male;Married;47883796356
+53.0;Y;2.0;Marketing;Male;Married;65579352166
+45.0;Y;3.0;Life Sciences;Male;Divorced;80967696003
+32.0;Y;3.0;Marketing;Female;Single;35816467905
+29.0;Y;1.0;Technical Degree;Male;Married;66398465431
+51.0;Y;4.0;Medical;Male;Married;79055496405
+58.0;Y;3.0;Medical;Female;Married;95781244816
+40.0;Y;4.0;Marketing;Male;Married;42512007723
+34.0;Y;4.0;Marketing;Female;Married;70848651367
+22.0;Y;1.0;Medical;Male;Married;55179953308
+27.0;Y;3.0;Medical;Male;Divorced;93272471243
+28.0;Y;3.0;Medical;Male;Married;89061846463
+57.0;Y;2.0;Life Sciences;Male;Divorced;09344828539
+27.0;Y;3.0;Medical;Male;Divorced;23092103823
+50.0;Y;3.0;Life Sciences;Female;Single;32654348423
+41.0;Y;3.0;Life Sciences;Male;Divorced;41048923860
+30.0;Y;3.0;Life Sciences;Female;Married;04639567707
+38.0;Y;4.0;Life Sciences;Female;Single;44105783408
+32.0;Y;5.0;Life Sciences;Male;Single;23355804770
+27.0;Y;3.0;Technical Degree;Male;Married;95240285306
+19.0;Y;1.0;Technical Degree;Female;Single;27399745234
+36.0;Y;2.0;Medical;Male;Single;41677057106
+30.0;Y;3.0;Medical;Male;Divorced;75049731658
+45.0;Y;2.0;Life Sciences;Female;Divorced;93063414581
+56.0;Y;3.0;Life Sciences;Female;Divorced;54942821630
+33.0;Y;3.0;Life Sciences;Male;Single;13118126019
+19.0;Y;3.0;Life Sciences;Male;Single;93888722152
+46.0;Y;2.0;Marketing;Female;Divorced;41066169390
+38.0;Y;2.0;Life Sciences;Female;Single;52174453606
+31.0;Y;1.0;Medical;Female;Married;61363845586
+34.0;Y;2.0;Medical;Female;Single;75826336951
+41.0;Y;2.0;Marketing;Female;Single;22098110405
+50.0;Y;3.0;Medical;Male;Married;19626994800
+53.0;Y;2.0;Medical;Female;Divorced;36623300082
+33.0;Y;3.0;Medical;Female;Married;10925293903
+40.0;Y;1.0;Medical;Female;Married;84505835278
+55.0;Y;4.0;Medical;Male;Single;24419769823
+34.0;Y;1.0;Life Sciences;Male;Married;33251729110
+51.0;Y;3.0;Medical;Female;Single;65486839600
+52.0;Y;4.0;Life Sciences;Male;Married;10935191429
+27.0;Y;3.0;Medical;Female;Single;76119666184
+35.0;Y;2.0;Life Sciences;Male;Married;32791094008
+43.0;Y;3.0;Medical;Male;Divorced;55079104805
+45.0;Y;2.0;Medical;Male;Married;06097013809
+37.0;Y;3.0;Life Sciences;Male;Married;36913249756
+35.0;Y;3.0;Medical;Female;Single;47158960447
+42.0;Y;2.0;Medical;Female;Divorced;50918618665
+38.0;Y;4.0;Life Sciences;Male;Married;94588753584
+38.0;Y;3.0;Technical Degree;Male;Married;17373757960
+27.0;Y;1.0;Technical Degree;Male;Married;34691226010
+49.0;Y;4.0;Life Sciences;Male;Divorced;26241860933
+34.0;Y;4.0;Medical;Male;Divorced;20515885894
+40.0;Y;2.0;Medical;Male;Married;26858443924
+38.0;Y;1.0;Medical;Male;Married;20190249420
+29.0;Y;3.0;Marketing;Female;Married;82858356777
+22.0;Y;3.0;Life Sciences;Male;Divorced;51311336028
+36.0;Y;1.0;Medical;Female;Single;23170961357
+40.0;Y;5.0;Life Sciences;Male;Married;05154272170
+46.0;Y;4.0;Medical;Male;Divorced;04721550910
+32.0;Y;4.0;Medical;Male;Married;40516227971
+30.0;Y;1.0;Life Sciences;Male;Single;91393484743
+27.0;Y;3.0;Life Sciences;Female;Single;58166030357
+51.0;Y;4.0;Life Sciences;Male;Married;97484031810
+30.0;Y;3.0;Technical Degree;Female;Single;47338481709
+41.0;Y;3.0;Life Sciences;Female;Single;29469898362
+30.0;Y;4.0;Marketing;Female;Single;68766802741
+29.0;Y;3.0;Technical Degree;Male;Single;69849111682
+45.0;Y;3.0;Medical;Female;Single;13922445799
+54.0;Y;3.0;Marketing;Female;Married;47477895103
+36.0;Y;2.0;Life Sciences;Male;Single;29227452281
+33.0;Y;4.0;Medical;Female;Married;56057385691
+37.0;Y;3.0;Other;Male;Divorced;39283449274
+38.0;Y;3.0;Life Sciences;Male;Divorced;42485779090
+31.0;Y;4.0;Medical;Male;Married;90385705700
+59.0;Y;3.0;Life Sciences;Male;Married;33145037927
+37.0;Y;4.0;Marketing;Male;Divorced;29034085562
+29.0;Y;1.0;Medical;Female;Married;65080850930
+35.0;Y;3.0;Marketing;Female;Single;62692531876
+29.0;Y;1.0;Medical;Male;Single;72750598192
+52.0;Y;3.0;Life Sciences;Female;Single;66363310970
+42.0;Y;2.0;Technical Degree;Male;Married;50052868370
+59.0;Y;2.0;Medical;Male;Married;11588672123
+50.0;Y;4.0;Medical;Female;Divorced;54649216052
+33.0;Y;3.0;Medical;Male;Married;92418834301
+43.0;Y;3.0;Marketing;Female;Married;11058602560
+33.0;Y;2.0;Life Sciences;Female;Married;34219687645
+52.0;Y;4.0;Life Sciences;Male;Single;96829908400
+32.0;Y;2.0;Life Sciences;Female;Married;18952687027
+32.0;Y;3.0;Life Sciences;Male;Single;04292919224
+39.0;Y;4.0;Medical;Female;Divorced;69236312543
+32.0;Y;4.0;Marketing;Male;Married;36587767141
+41.0;Y;2.0;Life Sciences;Male;Divorced;74019095370
+40.0;Y;2.0;Technical Degree;Male;Divorced;51354774701
+45.0;Y;3.0;Other;Male;Married;17780197735
+31.0;Y;4.0;Medical;Male;Divorced;85019738824
+33.0;Y;4.0;Life Sciences;Female;Married;01800764936
+34.0;Y;4.0;Life Sciences;Male;Married;18395005300
+37.0;Y;2.0;Medical;Female;Married;62472989512
+45.0;Y;4.0;Life Sciences;Male;Married;44585562583
+37.0;Y;3.0;Medical;Male;Divorced;65515652479
+39.0;Y;4.0;Technical Degree;Female;Single;14609623897
+29.0;Y;3.0;Life Sciences;Male;Single;41831928620
+42.0;Y;2.0;Life Sciences;Female;Single;20515294772
+29.0;Y;2.0;Marketing;Male;Divorced;02713262399
+25.0;Y;3.0;Life Sciences;Female;Married;61922206466
+42.0;Y;3.0;Medical;Female;Divorced;93398319696
+40.0;Y;2.0;Medical;Male;Divorced;55473903215
+51.0;Y;3.0;Life Sciences;Male;Married;27021730551
+31.0;Y;2.0;Medical;Male;Single;25243829234
+32.0;Y;3.0;Life Sciences;Male;Married;70063448831
+38.0;Y;2.0;Life Sciences;Male;Married;04136786875
+32.0;Y;1.0;Technical Degree;Male;Single;98237820088
+46.0;Y;3.0;Technical Degree;Female;Married;64427526314
+28.0;Y;4.0;Life Sciences;Male;Single;99955612800
+29.0;Y;3.0;Medical;Male;Married;05529882781
+31.0;Y;3.0;Medical;Male;Married;08580017300
+25.0;Y;2.0;Life Sciences;Male;Divorced;31837487464
+45.0;Y;2.0;Medical;Male;Married;01415579741
+36.0;Y;3.0;Life Sciences;Male;Married;27485680013
+55.0;Y;3.0;Medical;Male;Single;03400007080
+47.0;Y;4.0;Life Sciences;Male;Married;54743615305
+28.0;Y;3.0;Medical;Male;Married;84631031204
+37.0;Y;4.0;Medical;Male;Married;20113490607
+21.0;Y;2.0;Medical;Male;Single;10578238721
+37.0;Y;4.0;Medical;Female;Divorced;05788855900
+35.0;Y;3.0;Life Sciences;Female;Divorced;79199759217
+38.0;Y;2.0;Medical;Female;Divorced;23293897606
+26.0;Y;3.0;Life Sciences;Female;Divorced;52337774015
+50.0;Y;1.0;Life Sciences;Male;Divorced;51310897867
+53.0;Y;4.0;Medical;Male;Married;33113781728
+42.0;Y;1.0;Life Sciences;Male;Married;78249492730
+29.0;Y;2.0;Life Sciences;Male;Single;26683665508
+55.0;Y;2.0;Technical Degree;Male;Married;09225902069
+26.0;Y;2.0;Medical;Male;Married;22940273294
+37.0;Y;3.0;Life Sciences;Female;Single;85547451320
+44.0;Y;3.0;Life Sciences;Male;Divorced;17458285591
+38.0;Y;4.0;Life Sciences;Male;Divorced;59684909934
+26.0;Y;4.0;Medical;Male;Divorced;72115716671
+28.0;Y;2.0;Life Sciences;Female;Single;00875714048
+49.0;Y;4.0;Life Sciences;Female;Single;84118800284
+36.0;Y;3.0;Technical Degree;Male;Single;21983624578
+31.0;Y;3.0;Marketing;Female;Divorced;87864928293
+26.0;Y;4.0;Marketing;Male;Single;72830318714
+37.0;Y;3.0;Medical;Male;Married;38145286891
+42.0;Y;3.0;Marketing;Female;Married;60204046254
+18.0;Y;3.0;Life Sciences;Male;Single;08988101758
+35.0;Y;3.0;Marketing;Male;Married;99129745578
+36.0;Y;4.0;Life Sciences;Male;Married;55608006275
+51.0;Y;3.0;Medical;Male;Divorced;96109372846
+41.0;Y;4.0;Life Sciences;Male;Single;68049580806
+18.0;Y;3.0;Medical;Female;Single;08285022420
+28.0;Y;2.0;Medical;Male;Single;28157762782
+31.0;Y;3.0;Technical Degree;Male;Married;35682421507
+39.0;Y;3.0;Medical;Male;Divorced;51997480506
+36.0;Y;4.0;Life Sciences;Female;Married;29181864655
+32.0;Y;3.0;Life Sciences;Male;Married;43546232348
+38.0;Y;2.0;Life Sciences;Female;Married;61735539295
+58.0;Y;4.0;Life Sciences;Male;Divorced;34549116056
+31.0;Y;4.0;Technical Degree;Male;Married;49191628989
+31.0;Y;3.0;Human Resources;Male;Married;24338166452
+45.0;Y;3.0;Life Sciences;Male;Divorced;71861826079
+31.0;Y;4.0;Life Sciences;Male;Divorced;99706028455
+33.0;Y;4.0;Life Sciences;Female;Married;47685726939
+39.0;Y;1.0;Medical;Male;Married;09239840893
+43.0;Y;4.0;Life Sciences;Female;Single;03780716453
+49.0;Y;2.0;Technical Degree;Female;Single;04179235544
+52.0;Y;4.0;Medical;Male;Married;46731256307
+27.0;Y;3.0;Life Sciences;Female;Single;59343492529
+32.0;Y;2.0;Technical Degree;Female;Married;03827450861
+27.0;Y;3.0;Life Sciences;Male;Single;07131811505
+31.0;Y;3.0;Marketing;Male;Divorced;90353057010
+32.0;Y;4.0;Medical;Female;Single;71591529050
+28.0;Y;4.0;Medical;Male;Married;91262098378
+30.0;Y;2.0;Medical;Female;Married;67800446280
+31.0;Y;2.0;Life Sciences;Female;Married;60750773405
+39.0;Y;2.0;Medical;Male;Married;24340241148
+39.0;Y;2.0;Medical;Female;Married;80702005100
+33.0;Y;3.0;Marketing;Male;Single;60304699837
+47.0;Y;5.0;Life Sciences;Male;Married;04210691984
+43.0;Y;4.0;Life Sciences;Female;Divorced;54022735104
+27.0;Y;1.0;Marketing;Male;Married;50549298274
+54.0;Y;4.0;Life Sciences;Female;Single;21143211774
+43.0;Y;3.0;Life Sciences;Female;Married;22842301307
+45.0;Y;4.0;Other;Male;Married;05185999900
+40.0;Y;2.0;Medical;Male;Married;54330854147
+29.0;Y;4.0;Other;Male;Married;74157149467
+29.0;Y;5.0;Other;Male;Single;00210555211
+30.0;Y;3.0;Marketing;Female;Divorced;86607868231
+27.0;Y;4.0;Marketing;Female;Married;95281032860
+37.0;Y;2.0;Medical;Male;Divorced;01554973830
+38.0;Y;2.0;Life Sciences;Male;Divorced;34518650921
+31.0;Y;4.0;Medical;Female;Single;27708521408
+29.0;Y;1.0;Marketing;Female;Divorced;23351353251
+35.0;Y;4.0;Technical Degree;Male;Single;45744177906
+23.0;Y;1.0;Life Sciences;Male;Divorced;30846879190
+41.0;Y;3.0;Medical;Male;Single;45394557616
+47.0;Y;1.0;Medical;Male;Single;33622474661
+42.0;Y;5.0;Life Sciences;Female;Single;31988343410
+29.0;Y;3.0;Life Sciences;Male;Married;11488123500
+42.0;Y;1.0;Technical Degree;Male;Divorced;79561952505
+32.0;Y;3.0;Medical;Female;Married;43226195921
+48.0;Y;1.0;Medical;Female;Married;96586632064
+37.0;Y;3.0;Medical;Male;Divorced;13162347629
+30.0;Y;2.0;Technical Degree;Female;Married;90362449511
+26.0;Y;3.0;Life Sciences;Male;Married;27838915651
+42.0;Y;4.0;Other;Male;Single;34518462688
+21.0;Y;1.0;Technical Degree;Female;Single;45364138631
+36.0;Y;5.0;Medical;Female;Single;99276671404
+36.0;Y;4.0;Medical;Male;Married;73839323070
+57.0;Y;4.0;Medical;Male;Married;06225267158
+40.0;Y;4.0;Life Sciences;Female;Married;64162040885
+21.0;Y;2.0;Medical;Male;Single;17415862597
+33.0;Y;3.0;Marketing;Female;Single;79612942102
+37.0;Y;3.0;Medical;Female;Married;40179002830
+46.0;Y;4.0;Medical;Female;Married;69605146819
+41.0;Y;3.0;Marketing;Male;Single;83900640491
+50.0;Y;3.0;Technical Degree;Male;Single;53718806070
+40.0;Y;2.0;Marketing;Male;Married;75225437540
+31.0;Y;4.0;Life Sciences;Male;Single;65003893019
+21.0;Y;3.0;Life Sciences;Female;Single;81338008625
+29.0;Y;3.0;Life Sciences;Male;Single;15270748622
+35.0;Y;4.0;Life Sciences;Male;Single;12937030289
+27.0;Y;2.0;Medical;Male;Divorced;77186601332
+28.0;Y;4.0;Life Sciences;Male;Single;81183792484
+49.0;Y;3.0;Other;Male;Single;16055503700
+51.0;Y;2.0;Life Sciences;Female;Married;74997655040
+36.0;Y;3.0;Life Sciences;Female;Married;07324336493
+34.0;Y;3.0;Marketing;Male;Single;25986082087
+55.0;Y;3.0;Life Sciences;Female;Single;11448638054
+24.0;Y;4.0;Marketing;Female;Divorced;57110509907
+30.0;Y;1.0;Technical Degree;Male;Married;04945128570
+26.0;Y;1.0;Technical Degree;Male;Single;79622695450
+22.0;Y;3.0;Medical;Female;Married;27220103565
+36.0;Y;2.0;Medical;Male;Married;31194486304
+30.0;Y;3.0;Technical Degree;Male;Single;84871429075
+37.0;Y;3.0;Life Sciences;Female;Divorced;76260649509
+40.0;Y;2.0;Marketing;Female;Divorced;27366467626
+42.0;Y;4.0;Life Sciences;Female;Divorced;65880381943
+37.0;Y;4.0;Life Sciences;Male;Single;23625521954
+43.0;Y;3.0;Life Sciences;Male;Divorced;32056953218
+40.0;Y;3.0;Medical;Female;Married;69650997202
+54.0;Y;2.0;Medical;Male;Married;97055407214
+34.0;Y;4.0;Marketing;Female;Married;21789559910
+31.0;Y;2.0;Medical;Female;Married;11584050497
+43.0;Y;3.0;Medical;Male;Married;89999041302
+43.0;Y;4.0;Other;Female;Divorced;92940912017
+25.0;Y;2.0;Life Sciences;Female;Single;77028499162
+37.0;Y;5.0;Medical;Female;Married;96002736000
+31.0;Y;2.0;Life Sciences;Male;Married;66728862226
+39.0;Y;1.0;Life Sciences;Male;Divorced;62086585942
+56.0;Y;3.0;Life Sciences;Female;Married;63656153370
+30.0;Y;3.0;Technical Degree;Female;Single;74056503419
+41.0;Y;3.0;Marketing;Male;Married;14330969785
+28.0;Y;2.0;Medical;Male;Divorced;26825701274
+25.0;Y;3.0;Medical;Male;Married;67393576767
+52.0;Y;3.0;Medical;Male;Married;20415231744
+45.0;Y;2.0;Life Sciences;Male;Married;60447779010
+52.0;Y;2.0;Life Sciences;Female;Married;16249534504
+42.0;Y;2.0;Life Sciences;Female;Divorced;24566895009
+30.0;Y;3.0;Life Sciences;Female;Single;66392157131
+60.0;Y;3.0;Life Sciences;Female;Married;47765044486
+46.0;Y;3.0;Medical;Female;Divorced;67198412203
+42.0;Y;4.0;Technical Degree;Female;Married;61288751494
+24.0;Y;1.0;Technical Degree;Female;Single;11479090247
+34.0;Y;2.0;Marketing;Female;Divorced;58505178475
+38.0;Y;2.0;Life Sciences;Male;Married;18016585795
+40.0;Y;4.0;Life Sciences;Female;Married;67342469300
+26.0;Y;3.0;Life Sciences;Female;Divorced;20575617047
+30.0;Y;3.0;Life Sciences;Male;Married;71363545019
+29.0;Y;4.0;Medical;Male;Married;93471717862
+29.0;Y;5.0;Technical Degree;Female;Married;13886888835
+19.0;Y;2.0;Technical Degree;Male;Single;90050405217
+30.0;Y;4.0;Other;Female;Married;99018567523
+57.0;Y;3.0;Marketing;Male;Divorced;56894493774
+50.0;Y;4.0;Life Sciences;Male;Married;23070494528
+30.0;Y;3.0;Medical;Female;Single;58151029978
+60.0;Y;3.0;Marketing;Female;Married;30798385804
+47.0;Y;2.0;Medical;Female;Divorced;51855749416
+46.0;Y;3.0;Life Sciences;Male;Married;31411812689
+35.0;Y;3.0;Life Sciences;Male;Single;04815249245
+54.0;Y;4.0;Life Sciences;Female;Single;10703953826
+34.0;Y;4.0;Life Sciences;Male;Divorced;29740264352
+46.0;Y;3.0;Marketing;Female;Married;51272667251
+31.0;Y;1.0;Life Sciences;Male;Divorced;70500958696
+33.0;Y;1.0;Medical;Male;Married;24491230080
+33.0;Y;1.0;Medical;Male;Divorced;46775542186
+30.0;Y;1.0;Marketing;Male;Single;10592030148
+35.0;Y;3.0;Life Sciences;Male;Married;93212491175
+31.0;Y;3.0;Life Sciences;Male;Married;99403829443
+34.0;Y;3.0;Human Resources;Female;Divorced;58168973810
+42.0;Y;2.0;Other;Male;Married;92437559787
+36.0;Y;4.0;Medical;Male;Single;58404929653
+22.0;Y;1.0;Technical Degree;Male;Single;39473073658
+48.0;Y;5.0;Marketing;Female;Married;31542802270
+55.0;Y;5.0;Life Sciences;Female;Single;76703251789
+41.0;Y;2.0;Life Sciences;Male;Single;78618812889
+35.0;Y;3.0;Marketing;Male;Married;31196866627
+40.0;Y;3.0;Life Sciences;Female;Single;92344986820
+39.0;Y;1.0;Life Sciences;Female;Married;15688167238
+31.0;Y;1.0;Life Sciences;Male;Single;30738952052
+42.0;Y;3.0;Medical;Male;Married;56775473796
+45.0;Y;3.0;Other;Male;Married;30107862123
+26.0;Y;4.0;Life Sciences;Female;Divorced;46178081243
+29.0;Y;3.0;Technical Degree;Male;Divorced;58840960708
+33.0;Y;5.0;Medical;Female;Divorced;30714105066
+31.0;Y;3.0;Life Sciences;Male;Divorced;21967589305
+18.0;Y;3.0;Marketing;Male;Single;01218209550
+40.0;Y;3.0;Other;Male;Divorced;82289757241
+41.0;Y;4.0;Other;Female;Single;51369433352
+26.0;Y;2.0;Medical;Male;Divorced;97584086748
+35.0;Y;3.0;Medical;Female;Single;72817921909
+34.0;Y;4.0;Life Sciences;Male;Single;35261394740
+26.0;Y;3.0;Technical Degree;Male;Single;08782295310
+37.0;Y;3.0;Technical Degree;Female;Single;99487046658
+46.0;Y;1.0;Medical;Female;Married;81127177290
+41.0;Y;5.0;Life Sciences;Female;Married;23221080816
+37.0;Y;4.0;Medical;Male;Divorced;43007600553
+52.0;Y;2.0;Technical Degree;Male;Divorced;46848990639
+32.0;Y;4.0;Other;Male;Married;58402323006
+24.0;Y;3.0;Medical;Male;Married;66713277349
+38.0;Y;3.0;Medical;Female;Married;74683943859
+37.0;Y;4.0;Life Sciences;Female;Married;21792372515
+49.0;Y;4.0;Life Sciences;Male;Divorced;92238670530
+24.0;Y;3.0;Medical;Male;Married;09017852968
+26.0;Y;2.0;Marketing;Male;Married;81437926177
+24.0;Y;2.0;Other;Male;Married;92183170085
+50.0;Y;3.0;Medical;Male;Married;64995692320
+25.0;Y;1.0;Medical;Male;Married;07188125902
+24.0;Y;3.0;Life Sciences;Female;Married;09715787967
+30.0;Y;4.0;Life Sciences;Male;Married;25568904014
+34.0;Y;2.0;Life Sciences;Male;Married;30402530420
+31.0;Y;4.0;Medical;Male;Divorced;50844891169
+35.0;Y;2.0;Other;Male;Single;56086132950
+31.0;Y;4.0;Medical;Male;Divorced;61647460786
+27.0;Y;4.0;Medical;Female;Divorced;30930693434
+37.0;Y;3.0;Marketing;Male;Married;86422086270
+20.0;Y;3.0;Life Sciences;Female;Single;75511781711
+42.0;Y;4.0;Life Sciences;Female;Married;52043534700
+43.0;Y;4.0;Other;Male;Divorced;89808489273
+38.0;Y;1.0;Life Sciences;Female;Single;05938988420
+43.0;Y;5.0;Medical;Male;Divorced;63925359850
+48.0;Y;4.0;Life Sciences;Female;Married;74017076408
+44.0;Y;4.0;Life Sciences;Female;Single;73012487760
+34.0;Y;3.0;Technical Degree;Female;Divorced;35720200266
+27.0;Y;1.0;Marketing;Male;Divorced;75546350180
+21.0;Y;1.0;Technical Degree;Male;Single;54389470078
+44.0;Y;4.0;Other;Male;Married;47858459376
+22.0;Y;1.0;Medical;Male;Married;70234361034
+33.0;Y;4.0;Marketing;Male;Divorced;64729402901
+32.0;Y;4.0;Life Sciences;Female;Married;56702216211
+30.0;Y;3.0;Medical;Female;Divorced;18819925354
+53.0;Y;1.0;Medical;Female;Single;99385720732
+34.0;Y;5.0;Life Sciences;Male;Married;46606209307
+45.0;Y;4.0;Life Sciences;Female;Married;90188279083
+26.0;Y;3.0;Life Sciences;Female;Married;41080719725
+37.0;Y;3.0;Other;Male;Married;91270871234
+29.0;Y;2.0;Medical;Female;Married;18604312080
+35.0;Y;4.0;Life Sciences;Male;Single;74298000923
+33.0;Y;3.0;Life Sciences;Male;Divorced;78270935077
+54.0;Y;4.0;Medical;Male;Married;97584277330
+36.0;Y;2.0;Medical;Male;Divorced;76392392220
+27.0;Y;4.0;Medical;Male;Single;67954140008
+20.0;Y;1.0;Medical;Male;Single;48425219884
+33.0;Y;3.0;Life Sciences;Male;Single;93128330905
+35.0;Y;3.0;Life Sciences;Male;Married;82059860539
+23.0;Y;3.0;Medical;Male;Married;72254070827
+25.0;Y;3.0;Life Sciences;Male;Married;43942178060
+38.0;Y;4.0;Marketing;Female;Single;83517116831
+29.0;Y;4.0;Life Sciences;Male;Divorced;71106175484
+48.0;Y;1.0;Marketing;Male;Married;37671874507
+27.0;Y;1.0;Medical;Female;Divorced;40452318700
+37.0;Y;2.0;Life Sciences;Male;Single;48438391249
+50.0;Y;1.0;Medical;Male;Married;91597073806
+34.0;Y;3.0;Medical;Female;Single;46730165138
+24.0;Y;2.0;Life Sciences;Female;Single;38026202678
+39.0;Y;4.0;Technical Degree;Female;Single;00198176490
+32.0;Y;3.0;Marketing;Male;Single;91694119726
+50.0;Y;2.0;Technical Degree;Male;Married;41707243131
+38.0;Y;4.0;Life Sciences;Female;Single;77409942517
+27.0;Y;2.0;Life Sciences;Female;Married;80536922225
+32.0;Y;2.0;Life Sciences;Female;Single;23878531052
+47.0;Y;4.0;Marketing;Male;Single;23750364842
+40.0;Y;4.0;Life Sciences;Male;Married;87684668897
+53.0;Y;3.0;Life Sciences;Male;Married;87677939406
+41.0;Y;4.0;Human Resources;Male;Divorced;98051857887
+60.0;Y;4.0;Marketing;Male;Single;63533349233
+27.0;Y;2.0;Life Sciences;Male;Divorced;81148194053
+41.0;Y;3.0;Human Resources;Male;Married;86558781034
+50.0;Y;4.0;Marketing;Male;Married;80159836140
+28.0;Y;2.0;Life Sciences;Female;Single;09336783637
+36.0;Y;3.0;Life Sciences;Female;Married;84149626707
+38.0;Y;3.0;Life Sciences;Female;Single;49837685808
+44.0;Y;3.0;Medical;Male;Single;59819439396
+47.0;Y;3.0;Medical;Female;Divorced;71331829208
+30.0;Y;5.0;Marketing;Male;Divorced;24871963608
+29.0;Y;3.0;Life Sciences;Male;Single;76070461002
+42.0;Y;3.0;Medical;Male;Divorced;05120975852
+43.0;Y;3.0;Life Sciences;Male;Married;53027377523
+34.0;Y;2.0;Medical;Female;Single;21343128153
+23.0;Y;1.0;Medical;Male;Married;05895479766
+39.0;Y;3.0;Human Resources;Female;Married;67759048513
+56.0;Y;3.0;Medical;Male;Married;32813926876
+40.0;Y;1.0;Medical;Female;Single;49526981570
+27.0;Y;3.0;Medical;Female;Single;21995429040
+29.0;Y;3.0;Marketing;Male;Divorced;67527524430
+53.0;Y;3.0;Life Sciences;Male;Single;82354569076
+35.0;Y;4.0;Life Sciences;Female;Divorced;53739938919
+32.0;Y;4.0;Life Sciences;Male;Married;60660086506
+38.0;Y;5.0;Medical;Male;Married;40055061354
+34.0;Y;5.0;Life Sciences;Female;Divorced;79560378678
+52.0;Y;4.0;Marketing;Male;Married;02328238807
+33.0;Y;4.0;Other;Male;Single;06561761804
+25.0;Y;1.0;Medical;Female;Single;70770603300
+45.0;Y;2.0;Technical Degree;Male;Single;28562538302
+23.0;Y;1.0;Medical;Male;Single;06678426754
+47.0;Y;2.0;Life Sciences;Female;Single;66171066605
+34.0;Y;3.0;Other;Male;Single;39192935095
+55.0;Y;3.0;Medical;Male;Married;56224702772
+36.0;Y;4.0;Life Sciences;Male;Single;38459182177
+52.0;Y;4.0;Medical;Male;Married;14012838024
+26.0;Y;2.0;Life Sciences;Female;Divorced;16202411023
+29.0;Y;3.0;Medical;Female;Married;56690717518
+26.0;Y;3.0;Technical Degree;Male;Single;72437827870
+34.0;Y;4.0;Life Sciences;Female;Single;80740118013
+54.0;Y;4.0;Medical;Female;Divorced;99192431240
+27.0;Y;1.0;Marketing;Male;Married;83219283829
+37.0;Y;1.0;Life Sciences;Female;Divorced;07480345445
+38.0;Y;4.0;Life Sciences;Female;Single;30304258865
+34.0;Y;4.0;Medical;Female;Single;69212210759
+35.0;Y;4.0;Life Sciences;Female;Married;70596533500
+30.0;Y;3.0;Life Sciences;Male;Married;96966556300
+40.0;Y;2.0;Medical;Female;Married;62682305237
+34.0;Y;2.0;Life Sciences;Female;Married;44212200864
+42.0;Y;3.0;Life Sciences;Male;Divorced;04967083927
+23.0;Y;3.0;Life Sciences;Male;Married;00165325976
+24.0;Y;3.0;Life Sciences;Male;Divorced;42605698726
+52.0;Y;4.0;Life Sciences;Female;Married;29307435146
+50.0;Y;3.0;Medical;Male;Married;39783941623
+29.0;Y;2.0;Life Sciences;Female;Married;21014900212
+33.0;Y;3.0;Medical;Male;Married;13927233021
+33.0;Y;3.0;Marketing;Female;Single;75654906607
+47.0;Y;2.0;Other;Female;Married;23898502511
+36.0;Y;3.0;Other;Female;Married;93272281975
+29.0;Y;2.0;Life Sciences;Male;Married;41542698014
+58.0;Y;4.0;Life Sciences;Male;Single;70404298290
+35.0;Y;4.0;Life Sciences;Female;Single;97529409190
+42.0;Y;2.0;Life Sciences;Female;Married;89844293928
+28.0;Y;4.0;Medical;Male;Single;36357146820
+36.0;Y;3.0;Human Resources;Male;Married;00925100196
+32.0;Y;3.0;Life Sciences;Female;Married;28141930583
+40.0;Y;4.0;Medical;Male;Single;10649540816
+30.0;Y;3.0;Medical;Female;Single;50588485209
+45.0;Y;3.0;Life Sciences;Female;Single;93153321302
+42.0;Y;3.0;Life Sciences;Male;Married;72149043491
+38.0;Y;3.0;Life Sciences;Male;Divorced;22688619292
+34.0;Y;4.0;Life Sciences;Female;Single;51852624787
+49.0;Y;3.0;Marketing;Female;Married;99397841122
+55.0;Y;1.0;Medical;Male;Single;95668476537
+43.0;Y;2.0;Life Sciences;Male;Married;49373733150
+27.0;Y;1.0;Technical Degree;Male;Divorced;61966018061
+35.0;Y;3.0;Other;Male;Single;95004835489
+28.0;Y;4.0;Marketing;Female;Married;44966195551
+34.0;Y;2.0;Human Resources;Male;Married;81709675381
+26.0;Y;2.0;Medical;Female;Married;69648439141
+27.0;Y;3.0;Medical;Male;Married;37063481444
+51.0;Y;4.0;Marketing;Female;Married;14202166353
+44.0;Y;3.0;Medical;Male;Single;82166211755
+25.0;Y;1.0;Medical;Male;Single;73237657816
+33.0;Y;3.0;Medical;Male;Divorced;05790588751
+35.0;Y;1.0;Medical;Female;Single;84743750024
+36.0;Y;2.0;Life Sciences;Male;Married;74415823858
+32.0;Y;4.0;Life Sciences;Male;Divorced;46940174389
+30.0;Y;4.0;Life Sciences;Male;Divorced;61309126178
+53.0;Y;2.0;Marketing;Female;Married;01064064698
+45.0;Y;3.0;Marketing;Male;Divorced;59696513038
+32.0;Y;2.0;Medical;Female;Married;00799383023
+52.0;Y;4.0;Medical;Female;Married;47973126961
+37.0;Y;4.0;Marketing;Male;Divorced;78268817810
+28.0;Y;2.0;Medical;Male;Divorced;07263354608
+22.0;Y;2.0;Life Sciences;Male;Married;00486995941
+44.0;Y;4.0;Life Sciences;Male;Married;86219920511
+42.0;Y;1.0;Medical;Male;Single;00921796064
+36.0;Y;3.0;Life Sciences;Male;Married;73463753600
+25.0;Y;1.0;Other;Male;Married;72063994870
+35.0;Y;3.0;Life Sciences;Female;Married;98841458739
+35.0;Y;4.0;Life Sciences;Female;Divorced;06744029444
+32.0;Y;3.0;Life Sciences;Male;Divorced;61562392786
+25.0;Y;1.0;Marketing;Male;Married;84104156744
+49.0;Y;3.0;Technical Degree;Female;Married;23228681327
+24.0;Y;1.0;Life Sciences;Male;Married;81826147160
+32.0;Y;2.0;Life Sciences;Male;Married;62667723295
+38.0;Y;3.0;Marketing;Male;Married;06818099149
+42.0;Y;3.0;Life Sciences;Female;Married;90514887001
+31.0;Y;4.0;Life Sciences;Male;Married;51552335429
+29.0;Y;3.0;Medical;Female;Divorced;98959580058
+53.0;Y;3.0;Marketing;Male;Married;50162063504
+35.0;Y;3.0;Technical Degree;Male;Married;48892785320
+37.0;Y;2.0;Medical;Female;Married;18653126066
+53.0;Y;4.0;Life Sciences;Female;Single;55961865894
+43.0;Y;3.0;Life Sciences;Female;Married;88765837266
+47.0;Y;2.0;Marketing;Female;Married;77722388604
+37.0;Y;2.0;Medical;Male;Single;99878550672
+50.0;Y;4.0;Life Sciences;Male;Divorced;80510704298
+39.0;Y;3.0;Life Sciences;Female;Married;99446830605
+33.0;Y;2.0;Human Resources;Male;Divorced;14621800949
+32.0;Y;4.0;Life Sciences;Male;Single;29498854700
+29.0;Y;1.0;Medical;Female;Divorced;35384792590
+44.0;Y;2.0;Life Sciences;Male;Married;53162179262
+28.0;Y;4.0;Medical;Male;Single;80611164051
+58.0;Y;1.0;Life Sciences;Male;Divorced;06003065184
+43.0;Y;3.0;Life Sciences;Female;Divorced;61445672243
+20.0;Y;3.0;Medical;Female;Single;11145398995
+21.0;Y;1.0;Other;Female;Single;98274849582
+36.0;Y;1.0;Life Sciences;Male;Married;71067513086
+47.0;Y;4.0;Life Sciences;Female;Single;23034735782
+22.0;Y;1.0;Life Sciences;Female;Married;43793363600
+41.0;Y;4.0;Life Sciences;Female;Divorced;47367462466
+28.0;Y;3.0;Medical;Female;Divorced;65729358920
+39.0;Y;3.0;Medical;Male;Married;90227767780
+27.0;Y;3.0;Life Sciences;Female;Single;73408800200
+34.0;Y;3.0;Life Sciences;Male;Divorced;23000711422
+42.0;Y;2.0;Medical;Female;Single;91389690768
+33.0;Y;4.0;Other;Male;Single;23496076151
+58.0;Y;3.0;Technical Degree;Female;Divorced;36709735320
+31.0;Y;4.0;Life Sciences;Male;Married;23037005823
+35.0;Y;1.0;Life Sciences;Female;Married;84905901766
+49.0;Y;2.0;Other;Female;Married;79038172214
+48.0;Y;4.0;Medical;Male;Married;20909124728
+31.0;Y;2.0;Marketing;Female;Married;50522795900
+36.0;Y;4.0;Other;Male;Single;20790757303
+38.0;Y;3.0;Technical Degree;Female;Married;72370279990
+32.0;Y;3.0;Life Sciences;Female;Married;84046294477
+25.0;Y;2.0;Marketing;Male;Married;36180462275
+40.0;Y;4.0;Marketing;Male;Divorced;52641433664
+26.0;Y;3.0;Medical;Male;Single;97086163627
+41.0;Y;3.0;Medical;Male;Single;72570567302
+36.0;Y;4.0;Medical;Male;Single;02100136054
+19.0;Y;3.0;Other;Male;Single;99333557830
+20.0;Y;3.0;Technical Degree;Male;Single;65339248348
+31.0;Y;3.0;Medical;Female;Married;01319069843
+40.0;Y;4.0;Medical;Male;Divorced;74101519358
+32.0;Y;4.0;Medical;Female;Married;48627309221
+36.0;Y;1.0;Life Sciences;Male;Married;82529975469
+33.0;Y;3.0;Life Sciences;Female;Single;55865920375
+37.0;Y;4.0;Life Sciences;Male;Married;74991104947
+45.0;Y;2.0;Life Sciences;Male;Married;90931924774
+29.0;Y;3.0;Technical Degree;Female;Married;16357919608
+35.0;Y;3.0;Medical;Female;Married;73640587960
+52.0;Y;2.0;Life Sciences;Male;Married;04945062960
+58.0;Y;3.0;Technical Degree;Male;Single;13981458311
+53.0;Y;2.0;Medical;Male;Divorced;23509190211
+30.0;Y;2.0;Other;Male;Divorced;42855966361
+38.0;Y;3.0;Technical Degree;Female;Single;64251293444
+35.0;Y;4.0;Life Sciences;Male;Divorced;62635167125
+39.0;Y;5.0;Life Sciences;Male;Single;60948040742
+40.0;Y;3.0;Life Sciences;Female;Single;24928551397
+47.0;Y;4.0;Medical;Male;Divorced;24928734637
+36.0;Y;4.0;Technical Degree;Male;Divorced;92300706377
+31.0;Y;2.0;Medical;Male;Single;47168158465
+33.0;Y;3.0;Life Sciences;Male;Single;65815520209
+29.0;Y;3.0;Life Sciences;Female;Single;75925331117
+33.0;Y;1.0;Life Sciences;Female;Single;49924509625
+45.0;Y;4.0;Medical;Female;Divorced;26789322817
+50.0;Y;2.0;Medical;Male;Divorced;81417906170
+33.0;Y;4.0;Other;Female;Married;08953375681
+41.0;Y;3.0;Medical;Male;Divorced;67125964753
+27.0;Y;4.0;Technical Degree;Female;Married;32287633669
+45.0;Y;2.0;Life Sciences;Male;Married;49929240772
+47.0;Y;2.0;Life Sciences;Female;Single;23724755929
+30.0;Y;3.0;Life Sciences;Female;Married;94912197661
+50.0;Y;3.0;Life Sciences;Male;Married;48881831120
+38.0;Y;1.0;Medical;Male;Married;90246001208
+46.0;Y;2.0;Medical;Male;Divorced;68654316934
+24.0;Y;1.0;Medical;Female;Divorced;72043753002
+35.0;Y;4.0;Other;Male;Divorced;47719158148
+31.0;Y;1.0;Life Sciences;Female;Married;88043425957
+18.0;Y;2.0;Life Sciences;Male;Single;48090708595
+54.0;Y;3.0;Technical Degree;Female;Married;60662421485
+35.0;Y;4.0;Medical;Female;Divorced;44738738895
+30.0;Y;2.0;Life Sciences;Female;Married;57532131203
+20.0;Y;3.0;Medical;Female;Single;57134751317
+30.0;Y;3.0;Medical;Female;Single;82892912130
+26.0;Y;2.0;Medical;Male;Married;42483801536
+22.0;Y;1.0;Life Sciences;Male;Married;73641307139
+48.0;Y;3.0;Life Sciences;Male;Single;89617082527
+48.0;Y;4.0;Life Sciences;Male;Single;05255066753
+41.0;Y;2.0;Medical;Female;Single;60285909169
+39.0;Y;1.0;Life Sciences;Female;Married;55317727774
+27.0;Y;4.0;Life Sciences;Female;Married;10458893005
+35.0;Y;3.0;Other;Male;Divorced;37232373635
+42.0;Y;2.0;Marketing;Male;Married;62711029131
+50.0;Y;3.0;Life Sciences;Male;Married;56831851142
+59.0;Y;3.0;Life Sciences;Female;Single;58517788656
+37.0;Y;2.0;Medical;Female;Married;02821179030
+55.0;Y;4.0;Medical;Male;Married;98796485442
+41.0;Y;1.0;Life Sciences;Female;Divorced;42660628181
+38.0;Y;4.0;Life Sciences;Male;Single;56867192254
+26.0;Y;2.0;Medical;Male;Single;35814975652
+52.0;Y;1.0;Marketing;Female;Married;31498429807
+44.0;Y;3.0;Medical;Female;Married;16364619991
+50.0;Y;3.0;Life Sciences;Female;Married;22042299200
+36.0;Y;4.0;Life Sciences;Female;Single;02519011220
+39.0;Y;3.0;Medical;Female;Single;17596666450
+33.0;Y;1.0;Life Sciences;Female;Single;83011675309
+45.0;Y;2.0;Life Sciences;Female;Married;68031810060
+32.0;Y;4.0;Medical;Female;Single;11021424765
+34.0;Y;4.0;Marketing;Male;Divorced;72227156570
+59.0;Y;2.0;Technical Degree;Male;Married;36020708322
+45.0;Y;4.0;Medical;Male;Single;46632980015
+53.0;Y;3.0;Marketing;Female;Married;10725475897
+36.0;Y;3.0;Other;Male;Divorced;60918126029
+26.0;Y;3.0;Life Sciences;Male;Married;86075728490
+34.0;Y;4.0;Life Sciences;Female;Married;94828736964
+28.0;Y;1.0;Medical;Male;Married;33563080410
+38.0;Y;4.0;Other;Male;Married;80434395676
+50.0;Y;4.0;Medical;Male;Married;42824285974
+37.0;Y;3.0;Other;Female;Single;10190403780
+40.0;Y;3.0;Marketing;Male;Married;38877923784
+26.0;Y;1.0;Medical;Female;Divorced;14624253051
+46.0;Y;4.0;Medical;Male;Divorced;42686618752
+54.0;Y;4.0;Life Sciences;Female;Married;70113973292
+56.0;Y;3.0;Medical;Female;Married;72776538740
+36.0;Y;5.0;Medical;Female;Single;26390309228
+55.0;Y;1.0;Medical;Male;Single;39095733637
+43.0;Y;3.0;Medical;Male;Divorced;96870689903
+20.0;Y;3.0;Marketing;Female;Single;07540924020
+21.0;Y;3.0;Life Sciences;Female;Single;78791209986
+46.0;Y;4.0;Life Sciences;Female;Divorced;47446026227
+51.0;Y;4.0;Life Sciences;Male;Married;26772686209
+28.0;Y;2.0;Technical Degree;Male;Single;88125661549
+26.0;Y;2.0;Medical;Male;Married;57957370462
+30.0;Y;3.0;Other;Male;Married;54073284967
+41.0;Y;2.0;Technical Degree;Female;Married;03401072943
+38.0;Y;1.0;Life Sciences;Female;Married;78205379904
+40.0;Y;4.0;Technical Degree;Male;Married;03145922106
+27.0;Y;5.0;Life Sciences;Male;Married;21896007155
+55.0;Y;1.0;Life Sciences;Male;Married;22190638011
+28.0;Y;3.0;Other;Female;Single;54018685700
+44.0;Y;2.0;Medical;Male;Married;63618805837
+33.0;Y;3.0;Life Sciences;Male;Divorced;80504707760
+35.0;Y;3.0;Technical Degree;Male;Single;73413720015
+33.0;Y;4.0;Medical;Female;Single;35648937920
+28.0;Y;2.0;Life Sciences;Male;Divorced;13802361776
+34.0;Y;1.0;Life Sciences;Male;Single;83784663451
+37.0;Y;4.0;Life Sciences;Female;Divorced;64758190267
+25.0;Y;1.0;Technical Degree;Male;Married;97553785024
+26.0;Y;3.0;Medical;Male;Divorced;26834346856
+33.0;Y;3.0;Medical;Male;Single;11783976888
+42.0;Y;2.0;Medical;Male;Married;54802051964
+28.0;Y;3.0;Medical;Male;Divorced;68641171703
+50.0;Y;4.0;Other;Male;Single;18375111791
+33.0;Y;3.0;Life Sciences;Female;Married;21916346219
+34.0;Y;4.0;Life Sciences;Male;Married;79397983326
+48.0;Y;4.0;Medical;Male;Single;75497960766
+45.0;Y;4.0;Life Sciences;Female;Married;68564461609
+52.0;Y;4.0;Life Sciences;Male;Single;58229944660
+38.0;Y;4.0;Marketing;Male;Divorced;10984601201
+29.0;Y;4.0;Life Sciences;Female;Divorced;76198073572
+28.0;Y;3.0;Medical;Female;Divorced;76567252960
+46.0;Y;1.0;Marketing;Male;Married;08253238274
+38.0;Y;2.0;Marketing;Male;Single;95829348403
+43.0;Y;3.0;Life Sciences;Female;Married;09863594326
+39.0;Y;3.0;Life Sciences;Male;Divorced;46511230740
+40.0;Y;3.0;Medical;Male;Single;67249340875
+21.0;Y;1.0;Technical Degree;Female;Single;67915441124
+39.0;Y;3.0;Life Sciences;Male;Single;96434553862
+36.0;Y;4.0;Life Sciences;Male;Single;69284552842
+31.0;Y;3.0;Life Sciences;Male;Married;78795838406
+28.0;Y;1.0;Life Sciences;Male;Married;49084650530
+35.0;Y;2.0;Marketing;Male;Divorced;19316995183
+49.0;Y;4.0;Technical Degree;Male;Married;42573151131
+34.0;Y;2.0;Life Sciences;Male;Single;26565470758
+29.0;Y;3.0;Life Sciences;Female;Divorced;39836760067
+42.0;Y;3.0;Medical;Male;Single;13508480429
+29.0;Y;1.0;Medical;Male;Married;04549482397
+38.0;Y;3.0;Human Resources;Male;Married;42845422067
+28.0;Y;3.0;Life Sciences;Male;Divorced;27635772295
+18.0;Y;1.0;Medical;Male;Single;92681649811
+33.0;Y;4.0;Marketing;Female;Single;05480083619
+41.0;Y;4.0;Life Sciences;Male;Married;48738941236
+31.0;Y;3.0;Medical;Male;Married;78333789412
+37.0;Y;2.0;Medical;Female;Divorced;37656461990
+27.0;Y;3.0;Life Sciences;Male;Married;35871570577
+34.0;Y;1.0;Life Sciences;Female;Married;72400280703
+35.0;Y;4.0;Technical Degree;Male;Single;82615264702
+29.0;Y;1.0;Life Sciences;Female;Married;93532581620
+40.0;Y;4.0;Medical;Female;Single;01733130942
+42.0;Y;3.0;Life Sciences;Male;Single;83071087217
+42.0;Y;4.0;Marketing;Male;Single;88578106407
+35.0;Y;4.0;Medical;Male;Married;59288291911
+24.0;Y;3.0;Medical;Male;Single;74755213703
+28.0;Y;1.0;Life Sciences;Female;Married;31594367213
+26.0;Y;4.0;Medical;Male;Married;78063684265
+30.0;Y;3.0;Marketing;Male;Married;60363945784
+40.0;Y;2.0;Medical;Female;Married;09792357408
+35.0;Y;3.0;Life Sciences;Male;Divorced;65048177665
+34.0;Y;3.0;Medical;Male;Single;75290510591
+35.0;Y;4.0;Other;Male;Married;01400634989
+43.0;Y;3.0;Marketing;Female;Single;18614590687
+32.0;Y;1.0;Life Sciences;Female;Divorced;35049645298
+56.0;Y;4.0;Technical Degree;Female;Divorced;02879082404
+29.0;Y;1.0;Medical;Female;Married;51530726573
+19.0;Y;2.0;Life Sciences;Male;Single;02142568637
+45.0;Y;3.0;Medical;Female;Married;82366947984
+37.0;Y;3.0;Life Sciences;Female;Married;81725581639
+20.0;Y;3.0;Life Sciences;Male;Single;00335064930
+44.0;Y;4.0;Life Sciences;Male;Single;07557257006
+53.0;Y;2.0;Medical;Female;Divorced;87444640700
+29.0;Y;1.0;Life Sciences;Female;Married;71079983660
+22.0;Y;4.0;Life Sciences;Male;Married;74651391044
+46.0;Y;3.0;Marketing;Female;Married;93097697691
+44.0;Y;3.0;Life Sciences;Male;Single;06396964813
+33.0;Y;3.0;Human Resources;Male;Married;93118488166
+41.0;Y;2.0;Life Sciences;Male;Divorced;94821931648
+30.0;Y;4.0;Life Sciences;Male;Divorced;75073678273
+40.0;Y;4.0;Medical;Male;Married;47943397983
+50.0;Y;3.0;Medical;Female;Married;24682053086
+28.0;Y;4.0;Medical;Male;Married;20912162244
+46.0;Y;2.0;Life Sciences;Male;Married;30161130909
+35.0;Y;4.0;Life Sciences;Male;Married;98401659760
+24.0;Y;2.0;Life Sciences;Female;Married;35246072762
+33.0;Y;3.0;Medical;Female;Married;41259890600
+36.0;Y;4.0;Life Sciences;Male;Divorced;44554215725
+30.0;Y;4.0;Life Sciences;Male;Divorced;14933041946
+44.0;Y;4.0;Other;Male;Single;13024664459
+20.0;Y;3.0;Marketing;Male;Single;41490991387
+46.0;Y;4.0;Technical Degree;Male;Divorced;37827286291
+42.0;Y;5.0;Medical;Male;Married;09841678110
+60.0;Y;4.0;Marketing;Male;Divorced;74311009658
+32.0;Y;3.0;Other;Female;Married;52889018300
+32.0;Y;2.0;Life Sciences;Female;Single;65125736929
+36.0;Y;3.0;Technical Degree;Female;Divorced;01083241095
+33.0;Y;3.0;Medical;Male;Married;59972416704
+40.0;Y;3.0;Technical Degree;Female;Divorced;77198240755
+25.0;Y;4.0;Life Sciences;Male;Single;09771659065
+30.0;Y;3.0;Medical;Male;Married;96221593387
+42.0;Y;5.0;Medical;Female;Married;36641064239
+35.0;Y;2.0;Marketing;Female;Married;68929252354
+27.0;Y;3.0;Life Sciences;Male;Married;34049272490
+54.0;Y;4.0;Life Sciences;Female;Divorced;51099134986
+44.0;Y;1.0;Life Sciences;Female;Married;84086964910
+19.0;Y;3.0;Medical;Female;Single;14950427903
+29.0;Y;3.0;Life Sciences;Female;Divorced;09177799321
+54.0;Y;3.0;Life Sciences;Male;Married;66187648315
+31.0;Y;2.0;Medical;Male;Married;76727742049
+31.0;Y;3.0;Medical;Female;Single;21514097591
+59.0;Y;3.0;Life Sciences;Female;Single;76142874529
+43.0;Y;3.0;Life Sciences;Male;Married;14437904001
+49.0;Y;2.0;Medical;Male;Married;25685428537
+36.0;Y;3.0;Technical Degree;Male;Married;00224380842
+48.0;Y;2.0;Technical Degree;Male;Single;04954123097
+27.0;Y;2.0;Life Sciences;Male;Divorced;02495510205
+29.0;Y;3.0;Life Sciences;Male;Divorced;76502855962
+48.0;Y;3.0;Life Sciences;Male;Single;95561269615
+29.0;Y;3.0;Life Sciences;Female;Divorced;63657353240
+34.0;Y;3.0;Technical Degree;Female;Married;88892727320
+44.0;Y;3.0;Marketing;Male;Married;82708081136
+33.0;Y;5.0;Marketing;Male;Divorced;91755841906
+19.0;Y;3.0;Life Sciences;Female;Single;82666271935
+23.0;Y;2.0;Life Sciences;Male;Married;49006560545
+25.0;Y;1.0;Life Sciences;Male;Single;35688041587
+26.0;Y;2.0;Life Sciences;Male;Single;75312181439
+45.0;Y;3.0;Marketing;Female;Single;91480393304
+55.0;Y;1.0;Medical;Male;Divorced;02386864340
+21.0;Y;2.0;Life Sciences;Female;Single;85659409857
+46.0;Y;2.0;Marketing;Female;Married;55255180238
+34.0;Y;3.0;Marketing;Female;Single;32886072559
+51.0;Y;3.0;Life Sciences;Male;Divorced;29297480284
+59.0;Y;4.0;Medical;Male;Single;37178541512
+34.0;Y;3.0;Medical;Female;Divorced;12911551206
+28.0;Y;4.0;Medical;Male;Single;17518859769
+44.0;Y;2.0;Life Sciences;Male;Divorced;01095003933
+34.0;Y;3.0;Life Sciences;Male;Married;31597698873
+35.0;Y;1.0;Life Sciences;Male;Married;94516912279
+42.0;Y;4.0;Medical;Female;Married;16106671400
+43.0;Y;4.0;Marketing;Female;Single;81642018473
+36.0;Y;4.0;Life Sciences;Female;Single;10478298439
+44.0;Y;3.0;Medical;Female;Married;07742588536
+28.0;Y;3.0;Life Sciences;Male;Married;18574276022
+51.0;Y;2.0;Medical;Female;Single;78589991768
+30.0;Y;2.0;Medical;Female;Single;69202487863
+29.0;Y;3.0;Technical Degree;Female;Divorced;18423875962
+28.0;Y;3.0;Technical Degree;Male;Single;70825145066
+25.0;Y;3.0;Medical;Female;Single;74579048164
+32.0;Y;3.0;Medical;Male;Married;29051309627
+45.0;Y;3.0;Medical;Female;Single;20867215100
+39.0;Y;4.0;Medical;Female;Divorced;86891179033
+58.0;Y;4.0;Life Sciences;Male;Divorced;73461774014
+32.0;Y;2.0;Life Sciences;Male;Married;20202448290
+39.0;Y;3.0;Medical;Male;Single;48353720507
+30.0;Y;3.0;Technical Degree;Female;Married;80614591082
+36.0;Y;4.0;Technical Degree;Female;Married;27611640755
+46.0;Y;2.0;Life Sciences;Female;Single;62397420589
+28.0;Y;3.0;Life Sciences;Female;Married;31057884170
+50.0;Y;3.0;Life Sciences;Female;Married;63439321355
+40.0;Y;4.0;Marketing;Male;Single;28162487395
+52.0;Y;3.0;Life Sciences;Male;Single;53601984784
+30.0;Y;4.0;Medical;Female;Married;33511851548
+39.0;Y;2.0;Life Sciences;Male;Single;38708168300
+31.0;Y;4.0;Life Sciences;Female;Divorced;24450405900
+41.0;Y;2.0;Medical;Male;Single;14356418417
+31.0;Y;3.0;Life Sciences;Female;Single;12370895900
+44.0;Y;3.0;Life Sciences;Male;Married;22438907207
+42.0;Y;1.0;Life Sciences;Male;Married;33810694460
+55.0;Y;2.0;Medical;Female;Married;23784743501
+56.0;Y;4.0;Life Sciences;Male;Single;61634370040
+40.0;Y;2.0;Life Sciences;Male;Divorced;27114198272
+34.0;Y;3.0;Life Sciences;Male;Divorced;93245052979
+40.0;Y;3.0;Life Sciences;Male;Single;43671769599
+41.0;Y;3.0;Marketing;Female;Divorced;02770390104
+35.0;Y;4.0;Life Sciences;Male;Single;96259875681
+51.0;Y;3.0;Life Sciences;Male;Divorced;73264568365
+38.0;Y;2.0;Life Sciences;Female;Divorced;35162860913
+34.0;Y;2.0;Medical;Female;Single;40245302590
+25.0;Y;1.0;Medical;Male;Married;53457578877
+58.0;Y;4.0;Medical;Female;Married;03476118347
+40.0;Y;4.0;Life Sciences;Male;Married;59621417090
+36.0;Y;3.0;Marketing;Female;Married;86789756957
+48.0;Y;3.0;Life Sciences;Male;Single;88514064304
+27.0;Y;3.0;Medical;Female;Married;08170854911
+51.0;Y;2.0;Technical Degree;Female;Single;05314520850
+18.0;Y;3.0;Life Sciences;Female;Single;43846592102
+35.0;Y;3.0;Medical;Female;Married;05925865294
+27.0;Y;1.0;Life Sciences;Male;Single;96038797114
+55.0;Y;4.0;Marketing;Male;Single;02425659218
+56.0;Y;3.0;Life Sciences;Male;Married;09756648759
+34.0;Y;1.0;Technical Degree;Female;Divorced;72748065808
+40.0;Y;1.0;Medical;Female;Divorced;83542957534
+34.0;Y;3.0;Medical;Male;Married;09876250809
+31.0;Y;3.0;Life Sciences;Female;Single;11479032476
+35.0;Y;4.0;Marketing;Female;Married;24501341904
+38.0;Y;3.0;Life Sciences;Male;Divorced;01349391409
+34.0;Y;4.0;Technical Degree;Female;Single;71023800624
+28.0;Y;3.0;Life Sciences;Male;Married;29808129862
+31.0;Y;4.0;Medical;Male;Married;41820755797
+39.0;Y;4.0;Life Sciences;Male;Married;92550262590
+51.0;Y;3.0;Marketing;Male;Married;45919082321
+41.0;Y;3.0;Life Sciences;Female;Divorced;07689877923
+37.0;Y;1.0;Life Sciences;Male;Married;72531002200
+33.0;Y;1.0;Life Sciences;Male;Married;10746599536
+32.0;Y;1.0;Marketing;Male;Married;37556448606
+39.0;Y;2.0;Life Sciences;Male;Married;21792637160
+25.0;Y;1.0;Life Sciences;Male;Married;18404180288
+52.0;Y;2.0;Medical;Female;Married;77222964835
+43.0;Y;3.0;Medical;Female;Single;23624951327
+27.0;Y;3.0;Marketing;Female;Married;44495577948
+27.0;Y;4.0;Life Sciences;Female;Single;14495842765
+26.0;Y;1.0;Medical;Male;Single;80599328371
+42.0;Y;3.0;Human Resources;Female;Married;74009143088
+52.0;Y;4.0;Other;Female;Married;96904726660
+37.0;Y;3.0;Medical;Female;Single;26037236429
+35.0;Y;2.0;Life Sciences;Male;Single;90696020750
+25.0;Y;3.0;Technical Degree;Male;Married;69939180802
+26.0;Y;3.0;Other;Male;Single;69779163034
+29.0;Y;3.0;Other;Male;Single;92684302073
+49.0;Y;2.0;Life Sciences;Male;Single;47694265345
+29.0;Y;1.0;Other;Female;Single;74611401324
+54.0;Y;3.0;Medical;Female;Single;56197099900
+58.0;Y;3.0;Medical;Female;Married;45844522290
+55.0;Y;4.0;Medical;Male;Divorced;85890674919
+36.0;Y;4.0;Marketing;Female;Single;31531610030
+31.0;Y;4.0;Life Sciences;Female;Single;99291876852
+30.0;Y;4.0;Marketing;Female;Divorced;67850446003
+31.0;Y;5.0;Life Sciences;Female;Single;92058265297
+34.0;Y;4.0;Other;Male;Divorced;58976812360
+31.0;Y;3.0;Life Sciences;Female;Single;82767336030
+27.0;Y;1.0;Life Sciences;Male;Married;17331233858
+36.0;Y;4.0;Life Sciences;Male;Single;57969074413
+36.0;Y;4.0;Marketing;Female;Married;65084104826
+47.0;Y;3.0;Technical Degree;Male;Married;55379277217
+25.0;Y;2.0;Life Sciences;Male;Married;38153605950
+37.0;Y;2.0;Technical Degree;Male;Single;92264053283
+56.0;Y;2.0;Life Sciences;Female;Married;17996381208
+47.0;Y;4.0;Medical;Female;Married;69675805234
+24.0;Y;1.0;Medical;Female;Married;74335813678
+32.0;Y;5.0;Marketing;Male;Married;52144764859
+34.0;Y;3.0;Life Sciences;Female;Married;89031003875
+41.0;Y;5.0;Medical;Male;Married;45924585166
+40.0;Y;4.0;Other;Male;Divorced;00363709835
+31.0;Y;2.0;Life Sciences;Male;Divorced;93779493438
+46.0;Y;3.0;Marketing;Male;Divorced;35003361084
+39.0;Y;3.0;Life Sciences;Female;Single;69708701033
+31.0;Y;5.0;Life Sciences;Female;Single;10790801205
+45.0;Y;3.0;Medical;Male;Divorced;60192142909
+31.0;Y;2.0;Medical;Female;Single;67428275210
+31.0;Y;3.0;Life Sciences;Male;Married;95855000001
+45.0;Y;3.0;Technical Degree;Male;Married;17224824437
+48.0;Y;3.0;Marketing;Male;Divorced;74475863406
+34.0;Y;4.0;Technical Degree;Female;Married;87998023333
+40.0;Y;1.0;Medical;Male;Divorced;24681473162
+28.0;Y;3.0;Medical;Male;Single;78496661350
+44.0;Y;3.0;Life Sciences;Male;Single;34593819571
+53.0;Y;3.0;Medical;Male;Single;87129413280
+49.0;Y;4.0;Technical Degree;Male;Married;26820189559
+40.0;Y;3.0;Medical;Male;Divorced;98729494338
+44.0;Y;3.0;Life Sciences;Male;Single;65440779256
+33.0;Y;3.0;Medical;Male;Married;81769255788
+34.0;Y;3.0;Other;Male;Single;50297521292
+30.0;Y;1.0;Life Sciences;Male;Married;55265515208
+42.0;Y;2.0;Medical;Female;Single;71988255597
+44.0;Y;5.0;Marketing;Female;Married;92442349477
+30.0;Y;3.0;Technical Degree;Male;Divorced;92911528034
+57.0;Y;2.0;Life Sciences;Male;Married;34427456758
+49.0;Y;4.0;Life Sciences;Male;Divorced;07942842649
+34.0;Y;3.0;Medical;Male;Divorced;68187605626
+28.0;Y;3.0;Technical Degree;Male;Married;29082418118
+29.0;Y;3.0;Technical Degree;Female;Single;29602389150
+34.0;Y;4.0;Medical;Female;Single;04216085105
+35.0;Y;1.0;Life Sciences;Male;Married;31373564407
+24.0;Y;3.0;Medical;Male;Single;74771262314
+24.0;Y;2.0;Life Sciences;Female;Married;28963777782
+44.0;Y;1.0;Medical;Male;Single;84633688596
+29.0;Y;3.0;Life Sciences;Male;Divorced;13780564262
+30.0;Y;3.0;Life Sciences;Male;Divorced;60707118409
+55.0;Y;4.0;Life Sciences;Male;Married;02258723230
+33.0;Y;4.0;Medical;Female;Married;74641542740
+47.0;Y;3.0;Medical;Female;Married;62447592574
+28.0;Y;2.0;Medical;Male;Single;00092899684
+28.0;Y;3.0;Life Sciences;Male;Divorced;45744696334
+28.0;Y;3.0;Life Sciences;Male;Single;12883255415
+49.0;Y;2.0;Medical;Female;Married;43024457852
+29.0;Y;1.0;Life Sciences;Female;Married;15769976187
+28.0;Y;1.0;Life Sciences;Male;Married;73741001244
+33.0;Y;5.0;Life Sciences;Male;Single;58028453929
+32.0;Y;3.0;Medical;Male;Single;81176274694
+54.0;Y;4.0;Medical;Female;Divorced;22500057100
+29.0;Y;4.0;Technical Degree;Male;Single;24324673535
+44.0;Y;3.0;Life Sciences;Male;Married;85338399105
+39.0;Y;3.0;Life Sciences;Female;Single;39467356813
+46.0;Y;3.0;Life Sciences;Female;Married;66409435304
+35.0;Y;3.0;Life Sciences;Female;Single;58678153237
+23.0;Y;1.0;Life Sciences;Male;Single;60033235406
+40.0;Y;4.0;Life Sciences;Male;Single;35456820480
+34.0;Y;3.0;Technical Degree;Male;Married;74788761700
+31.0;Y;3.0;Life Sciences;Female;Single;91626958270
+50.0;Y;5.0;Medical;Male;Single;20203842995
+34.0;Y;2.0;Technical Degree;Male;Married;33233621604
+42.0;Y;3.0;Medical;Male;Married;18590841090
+37.0;Y;3.0;Medical;Male;Married;36434859481
+29.0;Y;1.0;Other;Female;Married;98602149808
+33.0;Y;3.0;Life Sciences;Male;Single;04605616349
+45.0;Y;3.0;Technical Degree;Male;Married;52868603467
+42.0;Y;3.0;Life Sciences;Male;Married;53122345404
+40.0;Y;2.0;Medical;Male;Married;92635616051
+33.0;Y;4.0;Life Sciences;Male;Married;62850248398
+40.0;Y;2.0;Medical;Male;Single;93892266603
+24.0;Y;2.0;Technical Degree;Male;Divorced;05218279064
+40.0;Y;2.0;Life Sciences;Male;Divorced;50618849815
+45.0;Y;4.0;Technical Degree;Male;Divorced;20187093563
+35.0;Y;4.0;Life Sciences;Female;Married;76588528566
+32.0;Y;2.0;Life Sciences;Female;Married;80552071196
+36.0;Y;4.0;Life Sciences;Male;Single;67930864561
+48.0;Y;4.0;Life Sciences;Female;Divorced;82423298773
+29.0;Y;3.0;Life Sciences;Male;Married;59451895027
+33.0;Y;4.0;Life Sciences;Male;Married;54564616170
+30.0;Y;3.0;Life Sciences;Male;Married;40707945810
+38.0;Y;4.0;Human Resources;Male;Married;39995447673
+35.0;Y;3.0;Medical;Male;Single;10084486058
+30.0;Y;4.0;Technical Degree;Male;Married;83883018104
+35.0;Y;3.0;Life Sciences;Female;Divorced;80759979642
+53.0;Y;5.0;Technical Degree;Female;Married;20904925706
+38.0;Y;3.0;Medical;Male;Married;38522053952
+32.0;Y;4.0;Technical Degree;Male;Married;89575639545
+48.0;Y;4.0;Other;Female;Married;27318709402
+34.0;Y;4.0;Medical;Male;Single;65485370683
+55.0;Y;5.0;Marketing;Male;Married;71685329101
+34.0;Y;4.0;Life Sciences;Male;Married;85624395337
+26.0;Y;3.0;Life Sciences;Female;Married;33418084427
+38.0;Y;3.0;Life Sciences;Male;Married;85669777182
+38.0;Y;3.0;Life Sciences;Female;Single;42566665320
+36.0;Y;4.0;Life Sciences;Female;Single;78111301499
+29.0;Y;1.0;Medical;Male;Single;26959060214
+35.0;Y;4.0;Medical;Female;Single;94356872967
+39.0;Y;3.0;Medical;Male;Married;30833722131
+29.0;Y;1.0;Life Sciences;Male;Divorced;27841501277
+50.0;Y;3.0;Marketing;Male;Married;78110782108
+23.0;Y;3.0;Technical Degree;Male;Married;22474148183
+36.0;Y;4.0;Life Sciences;Male;Married;82046180267
+42.0;Y;2.0;Other;Male;Single;02359235834
+35.0;Y;3.0;Life Sciences;Male;Married;89672329008
+34.0;Y;4.0;Technical Degree;Male;Married;01479990655
+40.0;Y;2.0;Life Sciences;Female;Married;92581225696
+43.0;Y;3.0;Technical Degree;Male;Divorced;05846317154
+35.0;Y;2.0;Life Sciences;Male;Married;89362851229
+46.0;Y;4.0;Life Sciences;Male;Single;05787041291
+28.0;Y;3.0;Medical;Male;Married;86684129308
+22.0;Y;2.0;Other;Female;Married;21882305310
+50.0;Y;5.0;Medical;Male;Married;19100874400
+32.0;Y;4.0;Other;Female;Married;23049310146
+44.0;Y;3.0;Medical;Female;Divorced;14549596147
+30.0;Y;3.0;Medical;Male;Married;24039383788
+45.0;Y;5.0;Medical;Female;Single;91150728434
+45.0;Y;3.0;Marketing;Male;Married;69802396435
+31.0;Y;4.0;Other;Male;Single;19182581800
+36.0;Y;4.0;Life Sciences;Female;Married;13932667468
+34.0;Y;4.0;Life Sciences;Male;Divorced;35479476424
+49.0;Y;4.0;Life Sciences;Female;Married;95012020979
+39.0;Y;5.0;Medical;Male;Married;69059541600
+27.0;Y;3.0;Other;Male;Divorced;99533010185
+35.0;Y;5.0;Life Sciences;Male;Married;34037261502
+28.0;Y;3.0;Medical;Female;Divorced;44498858727
+21.0;Y;1.0;Medical;Male;Single;13692329342
+18.0;Y;2.0;Medical;Female;Single;57594418760
+47.0;Y;4.0;Life Sciences;Female;Married;77929688801
+39.0;Y;2.0;Medical;Male;Divorced;20072871881
+40.0;Y;3.0;Life Sciences;Female;Married;47338208280
+35.0;Y;4.0;Life Sciences;Female;Married;80412461250
+37.0;Y;3.0;Life Sciences;Male;Married;16428393107
+39.0;Y;3.0;Medical;Female;Single;78103138355
+45.0;Y;2.0;Other;Female;Divorced;63935559984
+38.0;Y;2.0;Medical;Female;Married;69863440078
+35.0;Y;3.0;Medical;Male;Married;38383269978
+37.0;Y;3.0;Medical;Female;Married;89449712697
+40.0;Y;3.0;Life Sciences;Female;Single;28761610607
+44.0;Y;5.0;Human Resources;Male;Married;52483303005
+48.0;Y;5.0;Medical;Male;Married;18270873667
+35.0;Y;2.0;Medical;Male;Divorced;12926837755
+24.0;Y;1.0;Technical Degree;Female;Single;93907175077
+27.0;Y;3.0;Medical;Female;Married;17497065475
+27.0;Y;3.0;Medical;Male;Single;77681300902
+40.0;Y;3.0;Life Sciences;Male;Single;83251596691
+29.0;Y;3.0;Medical;Male;Single;14606188820
+36.0;Y;4.0;Life Sciences;Female;Married;13484437588
+25.0;Y;1.0;Life Sciences;Male;Divorced;27497258796
+39.0;Y;3.0;Medical;Male;Married;93392999490
+49.0;Y;4.0;Other;Female;Married;27817492220
+50.0;Y;5.0;Life Sciences;Female;Divorced;59783922424
+20.0;Y;3.0;Medical;Female;Single;75588032179
+34.0;Y;3.0;Life Sciences;Female;Divorced;45887240024
+36.0;Y;3.0;Life Sciences;Male;Single;46542404465
+49.0;Y;1.0;Life Sciences;Female;Married;75093509566
+36.0;Y;4.0;Medical;Female;Married;36557376292
+36.0;Y;2.0;Life Sciences;Male;Divorced;10771701225
+54.0;Y;5.0;Medical;Female;Married;22290873047
+43.0;Y;2.0;Life Sciences;Male;Married;31806491192
+35.0;Y;4.0;Other;Male;Single;88795075089
+38.0;Y;3.0;Life Sciences;Male;Married;75021247050
+29.0;Y;3.0;Medical;Male;Divorced;59883828608
+33.0;Y;4.0;Medical;Male;Divorced;15995809938
+32.0;Y;3.0;Medical;Male;Divorced;00313863261
+31.0;Y;4.0;Life Sciences;Female;Married;72677174979
+49.0;Y;3.0;Medical;Female;Divorced;01832544060
+38.0;Y;3.0;Medical;Female;Single;85131061270
+47.0;Y;4.0;Life Sciences;Female;Divorced;41376388880
+49.0;Y;3.0;Life Sciences;Male;Single;22905948906
+41.0;Y;2.0;Life Sciences;Male;Single;51454221801
+20.0;Y;1.0;Life Sciences;Male;Single;64255317623
+33.0;Y;3.0;Life Sciences;Female;Divorced;27824334317
+36.0;Y;4.0;Life Sciences;Male;Married;47187779097
+44.0;Y;3.0;Life Sciences;Female;Divorced;09716045760
+23.0;Y;1.0;Medical;Male;Single;48139029106
+38.0;Y;2.0;Medical;Female;Married;72519054930
+53.0;Y;4.0;Medical;Male;Married;89427014504
+48.0;Y;2.0;Medical;Female;Married;40225533596
+32.0;Y;4.0;Life Sciences;Male;Single;61188071408
+26.0;Y;3.0;Medical;Male;Single;43220294006
+55.0;Y;3.0;Technical Degree;Male;Divorced;19531074860
+34.0;Y;2.0;Medical;Male;Married;50792079221
+60.0;Y;4.0;Medical;Male;Divorced;83412373265
+33.0;Y;3.0;Medical;Male;Married;93968197607
+37.0;Y;4.0;Medical;Male;Divorced;52014867461
+34.0;Y;3.0;Life Sciences;Female;Married;57161101263
+23.0;Y;3.0;Life Sciences;Male;Divorced;47984398194
+44.0;Y;3.0;Life Sciences;Female;Married;13623485462
+35.0;Y;4.0;Medical;Male;Single;30099410486
+43.0;Y;3.0;Medical;Male;Married;74278954018
+24.0;Y;3.0;Medical;Male;Married;03080271599
+41.0;Y;3.0;Marketing;Male;Single;72055205099
+29.0;Y;4.0;Medical;Female;Married;71635922054
+36.0;Y;4.0;Life Sciences;Female;Single;83891947593
+45.0;Y;1.0;Life Sciences;Male;Married;17267578543
+24.0;Y;1.0;Human Resources;Male;Married;75229947306
+47.0;Y;3.0;Life Sciences;Male;Married;37419247250
+26.0;Y;4.0;Medical;Male;Married;06205301890
+45.0;Y;2.0;Technical Degree;Female;Single;64960208767
+32.0;Y;3.0;Life Sciences;Male;Married;06821382905
+31.0;Y;4.0;Life Sciences;Male;Married;95308478236
+41.0;Y;3.0;Human Resources;Male;Married;05887677350
+40.0;Y;2.0;Life Sciences;Female;Married;20888625286
+24.0;Y;1.0;Medical;Male;Divorced;78737720201
+46.0;Y;4.0;Life Sciences;Male;Single;26427864475
+35.0;Y;4.0;Life Sciences;Male;Married;47910724306
+30.0;Y;1.0;Life Sciences;Male;Married;80805034862
+47.0;Y;4.0;Marketing;Male;Married;05418544888
+46.0;Y;3.0;Life Sciences;Male;Divorced;72156139253
+36.0;Y;5.0;Marketing;Male;Divorced;89224707807
+32.0;Y;2.0;Life Sciences;Male;Single;60933006683
+23.0;Y;1.0;Medical;Female;Single;91553463080
+31.0;Y;1.0;Technical Degree;Female;Single;24415321976
+39.0;Y;3.0;Life Sciences;Male;Married;97846819780
+32.0;Y;3.0;Life Sciences;Male;Married;39500560097
+40.0;Y;4.0;Medical;Male;Single;70242801072
+45.0;Y;3.0;Life Sciences;Female;Married;57638608615
+30.0;Y;4.0;Technical Degree;Female;Single;46848910970
+24.0;Y;3.0;Medical;Male;Married;99340630696
+30.0;Y;3.0;Human Resources;Female;Divorced;80453952810
+31.0;Y;3.0;Technical Degree;Male;Married;07851708800
+27.0;Y;3.0;Medical;Female;Single;31164030906
+29.0;Y;3.0;Marketing;Female;Single;74355434974
+29.0;Y;3.0;Life Sciences;Male;Single;69381638551
+30.0;Y;2.0;Marketing;Male;Divorced;83498850504
+34.0;Y;4.0;Medical;Male;Married;69678453061
+33.0;Y;3.0;Marketing;Female;Single;99944670421
+49.0;Y;4.0;Marketing;Female;Single;16422801602
+33.0;Y;3.0;Life Sciences;Female;Single;88361725717
+38.0;Y;2.0;Medical;Female;Married;98818366629
+31.0;Y;4.0;Marketing;Male;Married;79540845238
+29.0;Y;3.0;Technical Degree;Female;Divorced;99484537863
+30.0;Y;3.0;Life Sciences;Male;Married;68384206864
+32.0;Y;4.0;Technical Degree;Male;Single;09587617525
+38.0;Y;3.0;Medical;Male;Married;44940801950
+43.0;Y;3.0;Technical Degree;Male;Married;92647955379
+42.0;Y;3.0;Medical;Male;Divorced;05255027189
+55.0;Y;3.0;Medical;Male;Married;71239732406
+33.0;Y;3.0;Technical Degree;Male;Divorced;54608465600
+41.0;Y;4.0;Life Sciences;Male;Divorced;62666878953
+34.0;Y;3.0;Life Sciences;Male;Divorced;25486091893
+53.0;Y;4.0;Medical;Female;Married;22356338543
+43.0;Y;3.0;Life Sciences;Male;Single;86138450612
+34.0;Y;2.0;Life Sciences;Female;Single;10352892021
+21.0;Y;1.0;Marketing;Male;Single;54978691141
+38.0;Y;2.0;Other;Female;Married;99019037420
+22.0;Y;1.0;Medical;Female;Married;09608039398
+31.0;Y;4.0;Marketing;Female;Married;22003751580
+51.0;Y;3.0;Technical Degree;Female;Married;52914511736
+37.0;Y;2.0;Marketing;Male;Married;34396641800
+46.0;Y;4.0;Medical;Male;Divorced;39974320828
+36.0;Y;3.0;Life Sciences;Male;Married;16268306651
+44.0;Y;2.0;Medical;Male;Divorced;15640921609
+37.0;Y;2.0;Other;Male;Divorced;57845175382
+35.0;Y;3.0;Life Sciences;Male;Single;65678173642
+33.0;Y;4.0;Life Sciences;Male;Married;92146060727
+28.0;Y;3.0;Life Sciences;Male;Married;50904829421
+39.0;Y;1.0;Medical;Male;Single;51451524340
+46.0;Y;2.0;Life Sciences;Male;Single;16130152590
+40.0;Y;2.0;Life Sciences;Female;Married;30179046870
+42.0;Y;3.0;Medical;Male;Married;87761892369
+35.0;Y;2.0;Medical;Male;Divorced;06878360340
+38.0;Y;3.0;Human Resources;Male;Divorced;58533196636
+34.0;Y;4.0;Life Sciences;Male;Married;37756467280
+37.0;Y;4.0;Medical;Male;Single;60252085817
+39.0;Y;3.0;Life Sciences;Male;Divorced;97890752865
+43.0;Y;3.0;Life Sciences;Male;Single;98996628107
+41.0;Y;3.0;Life Sciences;Male;Single;97129473002
+41.0;Y;1.0;Marketing;Female;Divorced;32244704610
+30.0;Y;3.0;Medical;Female;Single;42518925007
+26.0;Y;2.0;Medical;Female;Married;00566415089
+46.0;Y;2.0;Medical;Female;Married;21145125506
+40.0;Y;3.0;Life Sciences;Female;Divorced;51004701438
+34.0;Y;2.0;Technical Degree;Male;Married;72780449446
+58.0;Y;3.0;Medical;Male;Divorced;06091608002
+35.0;Y;4.0;Medical;Male;Married;50828176477
+47.0;Y;3.0;Life Sciences;Female;Divorced;57827185363
+40.0;Y;3.0;Life Sciences;Female;Divorced;24596594821
+54.0;Y;4.0;Medical;Female;Married;67602079639
+31.0;Y;4.0;Marketing;Female;Married;30849048044
+28.0;Y;3.0;Medical;Female;Married;20778283909
+38.0;Y;4.0;Marketing;Female;Married;59336776479
+26.0;Y;3.0;Medical;Male;Single;87859236648
+58.0;Y;4.0;Life Sciences;Male;Married;02153802075
+18.0;Y;3.0;Medical;Female;Single;86368501936
+31.0;Y;5.0;Human Resources;Male;Married;53861491567
+29.0;Y;3.0;Human Resources;Male;Divorced;74491997691
+45.0;Y;4.0;Life Sciences;Female;Married;82844746977
+36.0;Y;4.0;Other;Female;Married;94557096514
+43.0;Y;4.0;Life Sciences;Male;Married;04017078494
+27.0;Y;2.0;Life Sciences;Female;Single;00882624300
+29.0;Y;1.0;Medical;Male;Married;78423320960
+32.0;Y;4.0;Marketing;Male;Single;47137848184
+42.0;Y;4.0;Technical Degree;Male;Married;72503342710
+47.0;Y;4.0;Life Sciences;Female;Single;12922027856
+46.0;Y;2.0;Life Sciences;Male;Divorced;94425069277
+28.0;Y;2.0;Life Sciences;Male;Divorced;57933164935
+29.0;Y;1.0;Life Sciences;Male;Divorced;45690471305
+42.0;Y;3.0;Life Sciences;Male;Single;99157478023
+32.0;Y;4.0;Marketing;Male;Single;88426087345
+46.0;Y;3.0;Technical Degree;Female;Divorced;10842848126
+27.0;Y;1.0;Medical;Female;Married;01275189326
+29.0;Y;1.0;Medical;Male;Married;35988086314
+43.0;Y;3.0;Medical;Female;Married;43218795907
+48.0;Y;3.0;Life Sciences;Male;Married;92646182015
+29.0;Y;2.0;Life Sciences;Male;Single;89580410801
+46.0;Y;3.0;Life Sciences;Female;Married;66850332660
+27.0;Y;3.0;Life Sciences;Female;Married;57872614537
+39.0;Y;4.0;Other;Male;Divorced;68676126526
+55.0;Y;4.0;Technical Degree;Male;Married;69141704959
+28.0;Y;3.0;Medical;Female;Married;55077790906
+30.0;Y;3.0;Medical;Male;Single;23930698285
+22.0;Y;1.0;Life Sciences;Male;Single;63576231218
+36.0;Y;4.0;Technical Degree;Female;Married;03499224461
+31.0;Y;3.0;Life Sciences;Male;Divorced;19738328799
+34.0;Y;3.0;Life Sciences;Male;Married;02455441512
+29.0;Y;3.0;Life Sciences;Male;Single;96122082554
+37.0;Y;4.0;Medical;Male;Married;45695588448
+35.0;Y;2.0;Other;Female;Married;50610225561
+45.0;Y;2.0;Life Sciences;Female;Married;14333493889
+36.0;Y;1.0;Human Resources;Male;Single;01017335184
+40.0;Y;4.0;Life Sciences;Male;Divorced;04938598108
+26.0;Y;2.0;Life Sciences;Female;Married;23728691089
+27.0;Y;2.0;Medical;Female;Single;80814255787
+48.0;Y;3.0;Medical;Female;Divorced;72665901757
+44.0;Y;4.0;Life Sciences;Male;Married;05750402380
+34.0;Y;4.0;Technical Degree;Male;Married;68393144566
+56.0;Y;2.0;Life Sciences;Male;Single;85247383915
+36.0;Y;2.0;Marketing;Male;Married;00337564817
+41.0;Y;3.0;Marketing;Female;Married;95001516692
+42.0;Y;3.0;Medical;Male;Married;28350618434
+31.0;Y;2.0;Medical;Female;Divorced;78360051356
+34.0;Y;1.0;Medical;Female;Married;66497884734
+31.0;Y;3.0;Medical;Female;Divorced;59767438467
+26.0;Y;3.0;Other;Male;Married;30622765256
+45.0;Y;4.0;Medical;Male;Single;10964422808
+33.0;Y;4.0;Marketing;Male;Single;27171788725
+28.0;Y;2.0;Life Sciences;Male;Married;27784792280
+29.0;Y;3.0;Technical Degree;Male;Single;79301105756
+39.0;Y;4.0;Life Sciences;Female;Married;95330919916
+27.0;Y;4.0;Technical Degree;Male;Married;34477958595
+34.0;Y;4.0;Other;Male;Married;70794372104
+28.0;Y;2.0;Marketing;Female;Single;74446601407
+47.0;Y;4.0;Technical Degree;Male;Married;98043761809
+56.0;Y;5.0;Marketing;Female;Married;28321104444
+39.0;Y;2.0;Medical;Male;Married;18341225034
+38.0;Y;3.0;Medical;Female;Divorced;46154724047
+58.0;Y;3.0;Life Sciences;Female;Married;23192736461
+32.0;Y;2.0;Life Sciences;Female;Single;88830147745
+38.0;Y;2.0;Life Sciences;Male;Divorced;60551815175
+49.0;Y;1.0;Life Sciences;Male;Married;68248003256
+42.0;Y;4.0;Marketing;Male;Divorced;42684474400
+27.0;Y;3.0;Human Resources;Female;Married;56637684244
+35.0;Y;4.0;Medical;Male;Married;48910455586
+28.0;Y;3.0;Medical;Male;Single;71621954900
+31.0;Y;2.0;Medical;Male;Divorced;66598074975
+36.0;Y;4.0;Life Sciences;Male;Married;08129067056
+34.0;Y;3.0;Marketing;Male;Single;25214363567
+34.0;Y;4.0;Medical;Male;Divorced;19024202841
+26.0;Y;3.0;Medical;Male;Single;75728332501
+29.0;Y;3.0;Life Sciences;Male;Married;73216844900
+32.0;Y;4.0;Medical;Female;Divorced;04639382243
+31.0;Y;3.0;Life Sciences;Male;Married;95562765560
+28.0;Y;3.0;Technical Degree;Male;Divorced;89079162760
+38.0;Y;3.0;Life Sciences;Male;Single;63031812280
+35.0;Y;4.0;Life Sciences;Female;Married;95362161407
+27.0;Y;3.0;Marketing;Male;Single;11749510790
+32.0;Y;4.0;Life Sciences;Male;Single;83199583342
+31.0;Y;4.0;Marketing;Male;Married;83489991834
+53.0;Y;4.0;Life Sciences;Male;Single;86254149907
+54.0;Y;2.0;Life Sciences;Female;Married;47629490275
+33.0;Y;2.0;Life Sciences;Male;Divorced;64741172228
+43.0;Y;3.0;Life Sciences;Male;Married;47749386025
+38.0;Y;4.0;Other;Male;Married;24693520616
+55.0;Y;4.0;Human Resources;Male;Married;87833085804
+31.0;Y;1.0;Medical;Female;Divorced;00824566319
+39.0;Y;4.0;Marketing;Male;Single;74161106882
+42.0;Y;2.0;Life Sciences;Male;Single;30168899787
+31.0;Y;3.0;Medical;Female;Married;40707533384
+54.0;Y;3.0;Medical;Female;Single;61960232924
+24.0;Y;2.0;Life Sciences;Male;Single;12382168110
+23.0;Y;2.0;Other;Male;Single;38639200823
+40.0;Y;3.0;Technical Degree;Female;Married;70456758607
+40.0;Y;2.0;Marketing;Female;Married;49653638688
+25.0;Y;3.0;Human Resources;Female;Married;85441363894
+30.0;Y;2.0;Medical;Male;Married;66234913849
+25.0;Y;1.0;Other;Male;Divorced;85495873700
+47.0;Y;3.0;Medical;Male;Single;50548038589
+33.0;Y;2.0;Medical;Male;Divorced;92953978860
+38.0;Y;4.0;Life Sciences;Male;Married;90481966986
+31.0;Y;2.0;Life Sciences;Male;Married;82234871107
+38.0;Y;4.0;Life Sciences;Male;Married;25419404087
+42.0;Y;4.0;Life Sciences;Male;Divorced;89689199170
+41.0;Y;3.0;Life Sciences;Male;Married;39385659006
+47.0;Y;1.0;Medical;Female;Married;95043769165
+35.0;Y;4.0;Medical;Male;Married;09403714050
+22.0;Y;2.0;Life Sciences;Male;Single;88852948554
+35.0;Y;4.0;Medical;Male;Single;04955314996
+33.0;Y;2.0;Medical;Female;Married;52359635395
+32.0;Y;4.0;Life Sciences;Female;Single;39156721145
+40.0;Y;4.0;Life Sciences;Male;Married;35874149120
+32.0;Y;4.0;Medical;Male;Married;94613539447
+39.0;Y;1.0;Life Sciences;Male;Single;93778400401
+38.0;Y;3.0;Medical;Female;Married;05783420220
+32.0;Y;4.0;Marketing;Female;Married;51241088780
+37.0;Y;3.0;Life Sciences;Female;Married;08618339709
+25.0;Y;2.0;Other;Female;Divorced;38395587350
+52.0;Y;4.0;Life Sciences;Male;Divorced;69570523891
+44.0;Y;3.0;Medical;Male;Single;13447816163
+21.0;Y;1.0;Medical;Male;Single;93510429109
+39.0;Y;3.0;Life Sciences;Male;Single;70041250923
+23.0;Y;3.0;Marketing;Male;Married;22860555480
+36.0;Y;3.0;Medical;Female;Married;94862332170
+36.0;Y;2.0;Life Sciences;Female;Divorced;90190675675
+56.0;Y;4.0;Life Sciences;Male;Divorced;96702946309
+29.0;Y;4.0;Medical;Male;Married;92700113802
+42.0;Y;3.0;Life Sciences;Male;Married;10578320142
+56.0;Y;2.0;Technical Degree;Male;Married;06641769682
+41.0;Y;4.0;Life Sciences;Female;Married;42618987217
+34.0;Y;3.0;Marketing;Female;Married;52427671541
+36.0;Y;4.0;Marketing;Male;Divorced;56975293414
+41.0;Y;3.0;Life Sciences;Male;Divorced;18811895979
+32.0;Y;3.0;Technical Degree;Male;Single;65467458442
+35.0;Y;4.0;Life Sciences;Female;Single;03372238150
+38.0;Y;2.0;Life Sciences;Female;Married;12201855900
+50.0;Y;4.0;Life Sciences;Male;Divorced;71965282636
+36.0;Y;4.0;Marketing;Female;Married;33411986794
+45.0;Y;3.0;Life Sciences;Female;Single;35851985119
+40.0;Y;4.0;Life Sciences;Male;Single;71708554530
+35.0;Y;4.0;Life Sciences;Male;Married;68445298054
+40.0;Y;4.0;Medical;Female;Married;43024542027
+35.0;Y;4.0;Life Sciences;Female;Married;63235377298
+29.0;Y;2.0;Other;Male;Married;71275247776
+29.0;Y;4.0;Medical;Female;Single;36262359630
+50.0;Y;3.0;Marketing;Male;Divorced;89940644604
+39.0;Y;1.0;Marketing;Female;Married;32259200290
+31.0;Y;3.0;Medical;Male;Single;12189127408
+26.0;Y;3.0;Other;Female;Single;63180554959
+36.0;Y;2.0;Medical;Male;Married;55747702459
+39.0;Y;1.0;Medical;Male;Married;11852587440
+27.0;Y;3.0;Life Sciences;Male;Married;75030816003
+49.0;Y;3.0;Medical;Male;Married;94068353042
+34.0;Y;3.0;Medical;Male;Married;69866511987
+10.0;Y;3.0;;Female;Single;82354569076
+42.0;Y;3.0;Medical;Male;Married;18590841090
+32.0;Y;2.0;Life Sciences;Female;Married;18952687027
+;;;;Male;Single;35012893035
+31.0;Y;5.0;Life Sciences;Female;Single;10790801205
