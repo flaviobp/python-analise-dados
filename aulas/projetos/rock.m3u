@@ -1,0 +1,4 @@
+#EXTM3U
+#PLAYLIST:Online radio: ROCK Music
+#EXTINF:-1 tvg-logo="https://www.radiorock.com.br/wp-content/themes/89FM/static/img/logo89.png" group-title="ROCK Radio 89FM", 89FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_89FM_ADP.aac?dist=site-89fm
